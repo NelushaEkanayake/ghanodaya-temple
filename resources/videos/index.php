@@ -1,7 +1,7 @@
 <section id="recent" class="bg-2">
     <?php
     $st = new site();
-    $st-> pageheading('වීඩියෝ දර්ශණ');
+    $st-> pageheading('වීඩියෝ දර්ශන');
     ?>
     <div class="container">
         <div class="row">
