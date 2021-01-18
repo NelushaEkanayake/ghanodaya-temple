@@ -1,0 +1,31 @@
+#news {
+    .card {
+      padding: 0px 10px 10px 10px;
+      box-shadow: 0px 1px 9px 3px rgba(219, 210, 219, 1);
+      margin-bottom: 20px;
+  
+      .card-img {
+        .news_DateField {
+          padding: 10px;
+          text-align: inherit;
+          background-color: antiquewhite;
+          margin-left: 406px;
+        }    margin-top: -20px;
+        border-radius: 5px;
+        box-shadow: 1px 0px 0px 0px #dbd2db;
+        
+      }
+      .card-title {
+        padding-bottom: inherit;
+      }
+      .card-text{
+        color: #7d8282;
+      }
+      .news_DateField {
+        padding: 10px;
+        text-align: inherit;
+        color: #FF9800;
+        margin-left: 381px;
+      }
+    }
+  }

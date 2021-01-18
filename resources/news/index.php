@@ -8,7 +8,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-img">
-                    <img src="asset/img/news/1.jpg" class="card-img-top" alt="...">
+                    <img src="asset/img/news/news.jpg" class="card-img-top" alt="...">
                 </div>
             <div class="card-body">
                 <h5 class="card-title">අභයදානමය පුණ්‍යකර්මය.</h5>
@@ -23,7 +23,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-img">
-                    <img src="asset/img/news/1.jpg" class="card-img-top" alt="...">
+                    <img src="asset/img/news/news.jpg" class="card-img-top" alt="...">
                     
                 </div>
             <div class="card-body">
@@ -39,7 +39,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-img">
-                    <img src="asset/img/news/1.jpg" class="card-img-top" alt="...">
+                    <img src="asset/img/news/news.jpg" class="card-img-top" alt="...">
                    
                 </div>
             <div class="card-body">
@@ -55,7 +55,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-img">
-                    <img src="asset/img/news/1.jpg" class="card-img-top" alt="...">
+                    <img src="asset/img/news/news.jpg" class="card-img-top" alt="...">
                    
                 </div>
             <div class="card-body">
