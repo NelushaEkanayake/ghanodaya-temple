@@ -18,6 +18,7 @@
 
 #news .card .card-text {
   color: #7d8282;
+  text-align: justify;
 }
 
 #news .card .news_DateField {
