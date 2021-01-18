@@ -1,7 +1,7 @@
 <section id="event" class="bg-2" >
     <?php
 $st = new site();
-$st-> pageheading('EVENT');
+$st-> pageheading('ක්‍රියාකාරකම්');
 ?>
     <div class="container pt-2 pb-5">
         <div class="row">
