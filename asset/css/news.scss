@@ -5,23 +5,22 @@
       margin-bottom: 20px;
   
       .card-img {
-        .news_DateField {
-          padding: 10px;
-          text-align: inherit;
-          background-color: antiquewhite;
-          margin-left: 406px;
-        }    margin-top: -20px;
+        margin-top: -20px;
         border-radius: 5px;
         box-shadow: 1px 0px 0px 0px #dbd2db;
-        
       }
       .card-title {
         padding-bottom: inherit;
+  
       }
       .card-text{
         color: #7d8282;
       }
-      .news_DateField {
+      .news_DateField{
+        color: #615f5f;
+        font-size: 0.9em;
+      }
+       .more {
         padding: 10px;
         text-align: inherit;
         color: #FF9800;
@@ -29,3 +28,4 @@
       }
     }
   }
+  
