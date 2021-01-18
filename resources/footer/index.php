@@ -72,23 +72,23 @@
 </section>
 <section id="foot2" class="col-md-12 row m-0 pt-3">
 
-<div class="col-12 col-md-6 footer_bottom_left">
-    
-    <p>&copy; By : D.M.A.M. Dissanyaka | 2020-December. &middot; <a href="#">Privacy</a> &middot; <a
-            href="#">Terms</a></p>
-</div>
-<div class="col-12 col-md-6 footer_bottom_right">
-    <ul>
-        <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" href="#"><i
-                    class="fas fa-twitter"></i></a></li>
-        <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" href="#"><i
-                    class="fas fa-facebook"></i></a></li>
-        <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Googel+" href="#"><i
-                    class="fas fa-google-plus"></i></a></li>
-        <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube" href="#"><i
-                    class="fas fa-youtube"></i></a></li>
-        <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Rss" href="#"><i
-                    class="fas fa-rss"></i></a></li>
-    </ul>
-</div>
+    <div class="col-12 col-md-6 footer_bottom_left">
+
+        <p>&copy; By : D.M.A.M. Dissanyaka | 2020-December. &middot; <a href="#">Privacy</a> &middot; <a
+                href="#">Terms</a></p>
+    </div>
+    <div class="col-12 col-md-6 footer_bottom_right">
+        <ul>
+            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" href="#"><i
+                        class="fas fa-twitter"></i></a></li>
+            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" href="#"><i
+                        class="fas fa-facebook"></i></a></li>
+            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Googel+" href="#"><i
+                        class="fas fa-google-plus"></i></a></li>
+            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube" href="#"><i
+                        class="fas fa-youtube"></i></a></li>
+            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Rss" href="#"><i
+                        class="fas fa-rss"></i></a></li>
+        </ul>
+    </div>
 </section>
