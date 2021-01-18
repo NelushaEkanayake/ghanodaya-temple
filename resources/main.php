@@ -14,7 +14,7 @@
     <link href="asset/font/flaticon/flaticon.css" rel="stylesheet">
 
     <!-- <link href="asset/css/styles.css?v=1" rel="stylesheet"> -->
-    <link href="asset/css/styles.css" rel="stylesheet">
+    <link href="asset/css/ayesha.css" rel="stylesheet">
     <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
 </head>
 

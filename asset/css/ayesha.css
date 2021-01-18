@@ -1,0 +1,334 @@
+/*========================= NAVBAR =========================*/
+#navbar-heading .navbar {
+  color: #ffffff;
+  font-weight: 600;
+  z-index: 1;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#navbar-heading .navbar .nav-item {
+  width: 180px;
+  text-align: center;
+}
+
+#navbar-heading .navbar a {
+  color: #e7e2a6;
+  font-family: "Courgette", cursive;
+  z-index: 100;
+}
+
+#navbar-heading .navbar a:hover {
+  color: #02ffe8;
+}
+
+#navbar-heading .navbar-expand-lg .navbar-nav .dropdown-menu {
+  position: absolute;
+  background-color: #825a00d9;
+}
+
+#navbar-heading .dropdown-item {
+  text-transform: none;
+}
+
+#navbar-heading .btn-outline-secondary {
+  color: beige;
+  border-color: #222;
+  z-index: 100;
+}
+
+/*================================= FOOTER SECTION =======================================*/
+#footerstyle {
+  background-color: #022234;
+  padding-top: 30px;
+  /* ============================== col-md-4 widget ================*/
+}
+
+#footerstyle footer a {
+  color: #5d5d5d;
+  text-decoration: none !important;
+}
+
+#footerstyle .foot-1 {
+  color: #b9b9b9;
+}
+
+#footerstyle .foot-li li {
+  list-style-type: none;
+  text-align: left;
+  line-height: 1.75rem;
+  font-size: 15px;
+}
+
+#footerstyle .foot-li li a {
+  color: #727070;
+}
+
+#footerstyle .foot-li li a:hover {
+  color: #f48905;
+}
+
+#footerstyle .widget-heading h4 {
+  border-bottom: 3px solid #09c;
+  text-transform: uppercase;
+  color: #cfb9a9 !important;
+  font-weight: bold;
+  font-weight: 700px;
+  font-size: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#footerstyle .widget ul li > a {
+  padding: 10px 0;
+  display: block;
+}
+
+#footerstyle .widget a {
+  text-decoration: none;
+}
+
+#footerstyle .widget a:hover {
+  text-decoration: underline;
+}
+
+#footerstyle .widget .footer-contact-info {
+  padding: 40px 0 30px;
+}
+
+#footerstyle .widget .footer-contact-info ul li {
+  list-style-type: none;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  color: #a6a4a4;
+}
+
+#footerstyle .widget .footer-contact-info ul li span {
+  display: inline-block;
+  margin: 0 10px;
+  color: #c4c4c4;
+}
+
+#footerstyle .widget .footer-contact-info ul li i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 20px;
+  color: #94989f;
+  margin-right: 5px;
+  width: 25px;
+}
+
+#footerstyle .widget .footer-contact-info .svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  width: 25px;
+  margin-right: 10px;
+}
+
+#footerstyle .label_nav ul li {
+  list-style-type: none;
+}
+
+#footerstyle .widget .singleleft_inner {
+  background-color: transparent;
+}
+
+#footerstyle .widget .singleleft_inner ul li {
+  list-style-type: none;
+}
+
+#footerstyle .widget .link_nav li {
+  list-style-type: none;
+}
+
+#footerstyle .widget .link_nav li a {
+  color: #aea9a2;
+  font-weight: 600;
+}
+
+#footerstyle .widget .link_nav li a:hover {
+  color: #09c;
+}
+
+#footerstyle .widget .single_footer_top {
+  float: left;
+  display: inline;
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+#footerstyle .widget .single_footer_top > h2 {
+  border-bottom: 5px solid #09c;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-left: 0 none;
+  border-right: 0 none;
+  color: #b9b9b9;
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  padding: 10px 0;
+}
+
+#footerstyle .widget .single_footer_top ul li a {
+  color: #eee;
+}
+
+#footerstyle .widget .footer_labels li {
+  list-style-type: none;
+}
+
+#footerstyle .widget .footer_labels li a {
+  display: block;
+  float: left;
+  background-color: #222;
+  color: #eee;
+  font-size: 12px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#footerstyle .widget .footer_labels li a:hover,
+#footerstyle .footer_labels li a:focus {
+  background-color: #09c;
+  text-decoration: none;
+}
+
+#footerstyle .label_nav li a {
+  border-bottom: 1px solid;
+  color: #777;
+  display: block;
+  padding: 8px 5px;
+  font-size: 13px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#footerstyle .label_nav li a:hover {
+  background-color: #09c;
+  color: #eee;
+  border-color: #09c;
+  text-decoration: none;
+  padding-left: 15px;
+}
+
+#footerstyle .label_nav li a:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin-right: 5px;
+}
+
+#footerstyle .link_nav li a {
+  display: block;
+  padding: 3px 5px;
+  font-size: 14px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#footerstyle .link_nav li a:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  margin-right: 5px;
+}
+
+#footerstyle .link_nav li a:hover {
+  padding-left: 15px;
+  color: #777;
+  text-decoration: none;
+}
+
+#foot2 {
+  background-color: #0c0b09;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#foot2 .fa {
+  display: inline-block;
+  color: white;
+  font: normal normal normal 20px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#foot2 .footer_bottom {
+  display: inline;
+  float: left;
+  padding: 10px 10px 0;
+  width: 100%;
+}
+
+#foot2 .footer_bottom_left {
+  float: left;
+  display: inline;
+  width: 50%;
+  text-align: left;
+}
+
+#foot2 .footer_bottom_left p {
+  color: #fff;
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+#foot2 .footer_bottom_right {
+  float: right;
+  display: inline;
+  width: 50%;
+  text-align: right;
+}
+
+#foot2 .footer_bottom_right li {
+  display: inline-block;
+}
+
+#foot2 .footer_bottom_right li a {
+  background-color: #f13b3b;
+  border-radius: 50%;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 8px;
+  opacity: 0.7;
+  padding: 6px 10px;
+  width: 2em;
+}
+
+#foot2 .footer_bottom_right li a:hover {
+  opacity: 1;
+}
+
+#foot2 .footer_bottom_right li:nth-of-type(1) a {
+  background-color: #2ab2e3;
+}
+
+#foot2 .footer_bottom_right li:nth-of-type(2) a {
+  background-color: #3b5998;
+  padding: 6px 12px;
+}
+
+#foot2 .footer_bottom_right li:nth-of-type(4) a {
+  background-color: #d42e33;
+}
+
+#foot2 .footer_bottom_right li:nth-of-type(5) a {
+  background-color: #e36f36;
+}
+/*# sourceMappingURL=ayesha.css.map */

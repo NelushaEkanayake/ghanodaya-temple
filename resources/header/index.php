@@ -1,3 +1,4 @@
+<section id="navbar-heading">
 <nav class="navbar navbar-expand-lg navbar-light bg-light" aria-label="Tenth navbar example">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08"
@@ -61,3 +62,4 @@
         </div>
     </div>
 </nav>
+</section>
