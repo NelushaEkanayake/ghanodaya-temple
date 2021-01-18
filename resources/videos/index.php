@@ -1,4 +1,4 @@
-<section id="recent">
+<section id="recent" class="bg-2">
     <?php
     $st = new site();
     $st-> pageheading('VIDEOS');
