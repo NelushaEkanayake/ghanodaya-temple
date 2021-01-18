@@ -1,4 +1,4 @@
-<section id="event">
+<section id="event" class="bg-2" >
     <?php
 $st = new site();
 $st-> pageheading('EVENT');
