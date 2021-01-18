@@ -10,7 +10,7 @@ $st-> pageheading('EVENT');
                     <div class="card-body p-0">
                         <img src="asset/img/event/1.jpg" class="img-fluid" alt="...">
                         <div class="post-item-date">
-                            <span class="day">10</span>
+                        <i class="fas fa-calendar-alt"></i> <span class="day">10</span>
                             <span class="month">May</span>
                         </div>
                         <p class="card-text">2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
@@ -24,7 +24,7 @@ $st-> pageheading('EVENT');
                     <div class="card-body p-0">
                         <img src="asset/img/event/1.jpg" class="img-fluid" alt="...">
                         <div class="post-item-date">
-                            <span class="day">10</span>
+                        <i class="fas fa-calendar-alt"></i> <span class="day">10</span>
                             <span class="month">May</span>
                         </div>
                         <p class="card-text">2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
@@ -38,7 +38,7 @@ $st-> pageheading('EVENT');
                     <div class="card-body p-0">
                         <img src="asset/img/event/1.jpg" class="img-fluid" alt="...">
                         <div class="post-item-date">
-                            <span class="day ">10</span>
+                        <i class="fas fa-calendar-alt"></i> <span class="day ">10</span>
                             <span class="month">May</span>
                         </div>
                         <p class="card-text">2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
