@@ -80,13 +80,13 @@
     <div class="col-12 col-md-6 footer_bottom_right">
         <ul>
             <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" href="#"><i
-                        class="fas fa-twitter"></i></a></li>
+                        class="fab fa-twitter"></i></a></li>
             <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" href="#"><i
-                        class="fas fa-facebook"></i></a></li>
+                        class="fab fa-facebook"></i></a></li>
             <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Googel+" href="#"><i
-                        class="fas fa-google-plus"></i></a></li>
+                        class="fab fa-google-plus"></i></a></li>
             <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube" href="#"><i
-                        class="fas fa-youtube"></i></a></li>
+                        class="fab fa-youtube"></i></a></li>
             <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Rss" href="#"><i
                         class="fas fa-rss"></i></a></li>
         </ul>
