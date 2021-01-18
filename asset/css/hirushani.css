@@ -1,1 +1,39 @@
-/* No CSS *//*# sourceMappingURL=hirushani.css.map */
+/* ====================== DONATION ==================*/
+#donation {
+  background-color: white;
+  margin-bottom: 3rem;
+}
+
+#donation .d-img {
+  width: 100%;
+}
+
+#donation .description {
+  padding: 2rem;
+  text-align: center;
+}
+
+#donation .description .d-title {
+  font-size: 25px;
+  font-weight: 700;
+  padding-bottom: 1em;
+  text-align: center;
+  color: #342f77;
+}
+
+#donation .description .d-text {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#donation button {
+  background-color: #28ABE3;
+  display: inline-block;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 12px 40px;
+  border: 0px #28ABE3;
+  border-radius: 40px;
+  font-weight: 600;
+}
+/*# sourceMappingURL=hirushani.css.map */
