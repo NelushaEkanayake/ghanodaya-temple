@@ -13,17 +13,17 @@
     <link href="fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
     <link href="asset/font/flaticon/flaticon.css" rel="stylesheet">
 
-    <!-<link href="asset/css/styles.css?v=1" rel="stylesheet"> -->
-        <link href="asset/css/ayesha.css?v=1" rel="stylesheet">
-        <link href="asset/css/hirushani.css?v=1" rel="stylesheet">
-        <link href="asset/css/isuru.css?v=1" rel="stylesheet">
-        <link href="asset/css/kalana.css?v=1" rel="stylesheet">
-        <link href="asset/css/news.css?v=1" rel="stylesheet">
-        <link href="asset/css/roshan.css?v=1" rel="stylesheet">
-        <link href="asset/css/shani.css?v=1" rel="stylesheet">
+    <!--<link href="asset/css/styles.css?v=1" rel="stylesheet"> -->
+    <link href="asset/css/ayesha.css?v=1" rel="stylesheet">
+    <link href="asset/css/hirushani.css?v=1" rel="stylesheet">
+    <link href="asset/css/isuru.css?v=1" rel="stylesheet">
+    <link href="asset/css/kalana.css?v=1" rel="stylesheet">
+    <link href="asset/css/news.css?v=1" rel="stylesheet">
+    <link href="asset/css/roshan.css?v=1" rel="stylesheet">
+    <link href="asset/css/shani.css?v=1" rel="stylesheet">
 
 
-        <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
+    <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
 </head>
 
 <body>
