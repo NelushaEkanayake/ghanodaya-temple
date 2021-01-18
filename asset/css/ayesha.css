@@ -13,7 +13,7 @@
 }
 
 #navbar-heading .navbar a {
-  color: #e7e2a6;
+  color: #000000;
   font-family: "Courgette", cursive;
   z-index: 100;
 }
@@ -330,5 +330,14 @@
 
 #foot2 .footer_bottom_right li:nth-of-type(5) a {
   background-color: #e36f36;
+}
+
+/*==================== PAGE TOP SECTION =============================*/
+.page-top-section {
+  margin-top: 24px;
+  height: 200px;
+  padding-top: 50px;
+  color: burlywood;
+  font-size: 2em;
 }
 /*# sourceMappingURL=ayesha.css.map */

@@ -12,7 +12,7 @@
         text-align: center;
       }
       .navbar a {
-        color: #e7e2a6;
+        color: #000000;
         font-family: "Courgette", cursive;
         z-index: 100;
       }
@@ -301,3 +301,14 @@
     background-color: #e36f36;
   }
 }
+
+/*==================== PAGE TOP SECTION =============================*/
+
+.page-top-section {
+    margin-top: 24px;
+    height: 200px;
+    padding-top: 50px;
+    color: burlywood;
+    font-size: 2em;
+  }
+  
