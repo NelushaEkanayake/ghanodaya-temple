@@ -21,6 +21,8 @@
     <link href="asset/css/roshan.css?v=1" rel="stylesheet">
     <link href="asset/css/shani.css?v=1" rel="stylesheet">
 
+    <link href="asset/css/main.css?v=1" rel="stylesheet">
+
     <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
 
 </head>
