@@ -8,7 +8,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Vidyadrsha Nochchiyagama</title>
 
-
     <link href="bootstrap-5.0.0-beta1-dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
     <link href="asset/font/flaticon/flaticon.css" rel="stylesheet">
@@ -22,8 +21,8 @@
     <link href="asset/css/roshan.css?v=1" rel="stylesheet">
     <link href="asset/css/shani.css?v=1" rel="stylesheet">
 
-
     <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
+
 </head>
 
 <body>
