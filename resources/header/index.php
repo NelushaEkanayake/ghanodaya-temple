@@ -11,7 +11,7 @@
                     <a class="nav-link" aria-current="page" href="?sec=home">මුල් පිටුව</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">අප ගැන</a>
+                    <a class="nav-link" href="">අප ගැන  </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="">සම්බන්දවන්න</a>
