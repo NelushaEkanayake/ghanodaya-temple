@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vidyadrsha Nochchiyagama</title>
+
+
+    <link href="bootstrap-5.0.0-beta1-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
+    <link href="asset/font/flaticon/flaticon.css" rel="stylesheet">
+
+    <!-- <link href="asset/css/styles.css?v=1" rel="stylesheet"> -->
+    <link href="asset/css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
+</head>
+
+<body>
+
+    <?php
+        require_once('resources/header/index.php');
+        require_once('resources/slider/index.php');
+        require_once('resources/gallery/index.php');
+        
+        require_once('resources/event/index.php');
+        require_once('resources/news/index.php');
+        require_once('resources/videos/index.php');
+        require_once('resources/donation/index.php');
+
+        if(isset($_GET['tag'])){
+
+            if($_GET['tag'] == 'about-us')
+                require_once('resources/about/index.php');
+            else if($_GET['tag'] == 'staff')
+                require_once('resources/staff/index.php');
+        }
+        
+
+       /*      require_once('resources/slider/index.php');
+            require_once('resources/about/main.php');
+            require_once('resources/announcement/main.php');
+            require_once('resources/event/main.php');
+            require_once('resources/news/main.php');
+            require_once('resources/principal-messege/main.php'); */
+          
+  
+
+        require_once('resources/footer/index.php');
+    ?>
+
+
+
+    <script src="asset/js/jquery-3.5.1.min.js"></script>
+    <script src="bootstrap-5.0.0-beta1-dist/js/bootstrap.min.js"></script>
+    <script src="assets/js/scroll.js"></script>
+    <script src="Magnific-Popup-master/dist/jquery.magnific-popup.js"></script>
+    <script>
+    $('.test-popup-link').magnificPopup({
+        type: 'image',
+        mainClass: 'mfp-with-zoom', 
+
+        zoom: {
+            enabled: true,
+
+            duration: 300, 
+            easing: 'ease-in-out', 
+
+            opener: function(openerElement) {
+         
+                return openerElement.is('img') ? openerElement : openerElement.find('img');
+            }
+        }
+
+    });
+    </script>
+  
+
+</body>
+
+</html>
