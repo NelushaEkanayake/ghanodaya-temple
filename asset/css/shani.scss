@@ -1,9 +1,6 @@
 /* ======================= EVENT ==================*/
 #event {
   
-    .img-fluid {
-      padding-bottom: 15px;
-    }
     .post-item-date {
       position: absolute;
       background: #bab6b7;
@@ -24,9 +21,11 @@
         font-size: 20px;
       }
     }
-  
+  .card{
+    box-shadow: 0px 1px 9px 3px #a29e9e;
+  }
     .card-text {
       text-align: justify;
-      padding: 10px;
+      padding: 15px;
     }
   }
