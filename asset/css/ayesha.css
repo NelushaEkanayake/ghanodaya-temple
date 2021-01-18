@@ -1,4 +1,8 @@
 /*========================= NAVBAR =========================*/
+#navbar-heading {
+  padding: 0 !important;
+}
+
 #navbar-heading .navbar {
   color: #ffffff;
   font-weight: 600;
