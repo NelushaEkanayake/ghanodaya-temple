@@ -1,4 +1,9 @@
 /* ======================= EVENT ==================*/
+#event .post-item-date .fas {
+  font-size: x-large;
+  padding-left: 14px;
+}
+
 #event .post-item-date .day {
   font-size: 40px;
 }
