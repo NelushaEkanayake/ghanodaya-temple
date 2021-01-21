@@ -1,13 +1,29 @@
-#gallary .row img {
+#gallary img {
   width: 100%;
 }
 
-#gallary .row .hover-shadow {
+#gallary .img-gal-home {
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+}
+
+#gallary .img-gal-home:hover {
+  -webkit-transition: all 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+#gallarypage img {
+  width: 100%;
+}
+
+#gallarypage .hover-shadow {
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
-#gallary .row .hover-shadow:hover {
+#gallarypage .hover-shadow:hover {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
