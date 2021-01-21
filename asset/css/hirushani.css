@@ -31,4 +31,51 @@
   border-radius: 40px;
   font-weight: 600;
 }
+
+/*==================donation page========================*/
+#sponcers .title {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#sponcers .introduction {
+  font-size: 20px;
+  text-align: center;
+}
+
+#sponcers .d-img {
+  width: 100%;
+  border-width: 10px;
+}
+
+#sponcers .donate {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#sponcers .new {
+  width: 25%;
+  border: 2px solid yellow;
+  margin-bottom: 5rem;
+}
+
+#donation {
+  background-color: rgba(145, 137, 127, 0.199);
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#donation p {
+  font-size: 25px;
+}
+
+#donation .number {
+  font-size: 32px;
+}
+
+#donation .number .color {
+  background-color: #ffeb3b;
+}
 /*# sourceMappingURL=hirushani.css.map */
