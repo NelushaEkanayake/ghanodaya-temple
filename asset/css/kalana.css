@@ -1,4 +1,14 @@
 #gallary .row img {
   width: 100%;
 }
+
+#gallary .row .hover-shadow {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+#gallary .row .hover-shadow:hover {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 /*# sourceMappingURL=kalana.css.map */
