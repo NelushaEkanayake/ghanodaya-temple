@@ -38,15 +38,11 @@
                         අපගේ සේවාවන්
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="?tag=service">පරිගණක විද්‍යාගාර</a></li>
+                        <li><a class="dropdown-item" href="?tag=computerlab">පරිගණක විද්‍යාගාර</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
                         <li><a class="dropdown-item" href="?tag=garbage">කසළ ප්‍රතිචක්‍රීකරණ පද්දතිය</a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="">සංගීත කන්ඩායම</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>

@@ -759,6 +759,7 @@
     width: 100%;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
+    float: left;
   }
   #developments .support-company-area .left-caption {
     text-align: right;

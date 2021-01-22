@@ -44,6 +44,7 @@
 #contact .img .container .row .main .icon-main .icon {
   padding: 1em;
   text-align: center;
+  border: #000 solid 1px;
 }
 
 #contact .img .container .row .main .icon-main .icon i {
