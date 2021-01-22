@@ -57,7 +57,8 @@ p {
 #create #examp {
   border: 1px solid;
   padding: 5px;
-  box-shadow: 5px 10px #888888;
+  -webkit-box-shadow: 5px 10px #888888;
+          box-shadow: 5px 10px #888888;
   text-align: center;
   width: 1290px;
   margin-left: 12.5px;
