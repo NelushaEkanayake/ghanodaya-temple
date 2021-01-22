@@ -80,6 +80,11 @@ elseif($_GET['tag'] == 'sponcers'){
     require_once('resources/donation/main.php');
 
 }
+elseif($_GET['tag'] == 'garbage'){
+    require_once('resources/garbage/main.php');
+
+}
+
 require_once('resources/footer/index.php');
 ?>
 

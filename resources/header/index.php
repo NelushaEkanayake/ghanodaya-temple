@@ -42,7 +42,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">කසළ ප්‍රතිචක්‍රීකරණ පද්දතිය</a></li>
+                        <li><a class="dropdown-item" href="?tag=garbage">කසළ ප්‍රතිචක්‍රීකරණ පද්දතිය</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
