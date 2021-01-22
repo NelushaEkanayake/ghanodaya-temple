@@ -5,12 +5,16 @@
                     <div class="col-md-12 main">
                         <div class="col-md-12 icon-main">
                             <h5></h5>
-                                <div class="col-md-12 icon">
+                                <div class="col-md-4 icon">
                                     <i class="fa fa-phone"></i><p>071 809 6480 / 077 254 8635</p>
                                     <i class="fa fa-envelope"></i><p>rev.dheerananda@gmail.com</p>
                                 </div>
 
-                                <div class="col-md-12 icon">
+                                <div class="col-md-4 icon">
+                                    <i class="fa fa-envelope"></i><p>rev.dheerananda@gmail.com</p>
+                                </div>
+
+                                <div class="col-md-4 icon">
                                     <i class="fa fa-map-marker"></i>
                                     <p>ශ්‍රී ඥානෝදය මහා පිරිවෙන, ශ්‍රී වාවිස්සර නාහිමි මාවත, තම්මැන්නාව, තලාව, අනුරාධපුර</p>
                                 </div>
