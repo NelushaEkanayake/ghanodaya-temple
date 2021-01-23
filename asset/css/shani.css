@@ -45,11 +45,13 @@
 }
 
 #contact .card .card-body {
-  border: 1px solid;
+  height: 25em;
+  -webkit-box-shadow: 7px 6px 20px 5px #cccccc40;
+          box-shadow: 7px 6px 20px 5px #cccccc40;
 }
 
-#contact .card .card-body .p {
-  color: #cccccc;
+#contact .card .card-body p {
+  color: #8d8b8b;
 }
 
 #contact .card .card-title {
