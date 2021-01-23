@@ -50,6 +50,11 @@
 
 #contact .card .card-title {
   margin-bottom: 1.1em;
+  font-size: 1.5em;
+}
+
+#contact .card .p {
+  color: #888d8d;
 }
 
 #contact .row {
