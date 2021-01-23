@@ -52,15 +52,17 @@
 
     .card-body {
       border: 1px solid;
+
+      .p{
+        color: #cccccc;
+      }
     }
 
     .card-title {
       margin-bottom: 1.1em;
       font-size: 1.5em;
     }
-    .p{
-      color: #888d8d;
-    }
+    
   }
 
   .row {
