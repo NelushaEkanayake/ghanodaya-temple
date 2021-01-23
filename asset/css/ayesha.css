@@ -394,11 +394,10 @@
 
 #developments .support-company-area .support-location-img img {
   width: 100%;
-    box-shadow: 0 0 4px 2px #686464;
+  -webkit-box-shadow: 0 0 4px 2px #686464;
+          box-shadow: 0 0 4px 2px #686464;
   border: 6px solid #fff;
   background: white;
-    -webkit-transition: all .5s ease-out 0s;
-  transition: all .5s ease-out 0s;
 }
 
 #developments .support-company-area .left-caption {
