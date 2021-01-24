@@ -47,9 +47,6 @@
             
         }
    
-
-
-
 /*=========donation page==========*/ 
 
 #sponcers{
@@ -90,41 +87,30 @@
 
 /*=========donation page==========*/ 
 
-#donations{
+#donationpage{
    
     text-align: center;
-    margin-top: 3rem;
-    padding-bottom: 3rem;
+    background-image: url(../img/donation/meditation-1018837_640.jpg);
+    background-attachment: fixed;
+    padding: 0;
+    background-size: cover;
+    width: 100%;
 
 .background{
-    background-color: rgba(145, 137, 127, 0.199);
+    background-color: rgba(7, 7, 7, 0.432);
 }
-    
-
-
-
-    .donate{
+  .donate{
         text-align: center;
         font-size: 25px;
         font-weight: bold;
-       
-       
-    }
-    .donate::after{
-        border-bottom:5px solid rgba(14, 6, 85, 0.603);
-        display: block;
-        margin-left:20em;
-        content: " ";
-        width:25%;
-        padding-top: 0.5em;
-        color:linear-gradient(180deg, red, yellow);
-        border-radius: 10%;
-    
+        color: white;
+  
     }
 
-    p{
+    .bank{
             
         font-size: 25px;
+        color: white;
     }
 
 .number{
@@ -136,12 +122,13 @@
     }
   
 }
-.spon{
-    
-    margin-top: 5rem;
-
 }
 
+#spon{
+.name{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+
 }
-
-
+}
