@@ -1,96 +1,124 @@
-#youth .cardcontainer {
+#head {
+  background: -webkit-gradient(linear, right top, left top, from(#d6a4a4), to(#dae2f8));
+  background: linear-gradient(to left, #d6a4a4, #dae2f8);
+  padding: 40px;
+}
+
+#head .lotuscontainer {
   position: relative;
-  width: 320px;
-  height: 450px;
-  padding: 0px;
-}
-
-#youth .cardcontainer .card:hover {
-  transform: rotateY(180deg);
-}
-
-#youth .cardcontainer .card {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  transform-style: preserve-3d;
-  transition: all 0.5s ease;
-}
-
-#youth .cardcontainer .card .thefront {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  background: #ffc728;
-  color: #333;
-}
-
-#youth .cardcontainer .card .thefront img {
-  height: 100%;
-  width: 100%;
-  transition: 0.7s;
-}
-
-#youth .cardcontainer .card .thefront .bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  color: #ffffff;
-  font-size: x-large;
-}
-
-#youth .cardcontainer .card .theback {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  background: #fafafa;
-  color: #333;
-  transform: rotateY(180deg);
-}
-
-#youth .cardcontainer .card .theback h5 {
   text-align: center;
-  padding-top: 40px;
+  color: black;
+  margin-top: 10px;
 }
 
-#youth .cardcontainer .card .theback p {
-  padding: 20px;
+#head .lotuscontainer img {
+  width: 50%;
+  height: 50%;
+  opacity: 0.2;
+  width: 100%;
   text-align: center;
 }
 
-#youth .co h3 {
-  text-align: center;
-  margin-top: 80px;
+#head .lotuscontainer .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
-#youth .para {
-  padding-left: 80px;
-}
-
-#youth .imgdiv img {
-  object-fit: cover;
-}
-
-#youth .imgdiv img:hover {
-  z-index: 1;
-  transform: scale(1.25);
-  box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
-}
-
-#youth .descrip p {
-  font-size: 20px;
+#head .lotuscontainer .centered .hname {
+  font-size: 30px;
   font-weight: bold;
 }
 
-#youth .deshana img {
-  height: 230px;
-  object-fit: cover;
+#head .lotuscontainer .centered .hpara {
+  margin: 0px;
   padding: 0px;
 }
 
-.youth {
-  background-color: #F2F3F4;
+#head .lotuscontainer .centered p {
+  text-align: center;
+}
+
+#head .imgrow .imgdiv {
+  padding-right: 1px;
+}
+
+#head .imgrow .imgdiv .topimg {
+  padding-bottom: 10px;
+}
+
+#head .imgrow .imgdiv img {
+  -webkit-box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#head .imgrow .imgdiv img:hover {
+  opacity: 0.3;
+}
+
+#head .imgrow .imgdiv .img1 {
+  height: 330px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img2 {
+  height: 404px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img3 {
+  height: 404px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img4 {
+  height: 330px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#servicesec {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#servicesec .services {
+  margin-top: 80px;
+}
+
+#servicesec .services .flex-container .grid-wrapper, #servicesec .services .flex-container .service-content {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+}
+
+#servicesec .services .flex-container .grid-wrapper .grid-box {
+  background: darkslategray;
+  margin: 10px;
+  height: 20px;
+}
+
+#servicesec .services .flex-container .service-content .ctn {
+  padding: 10px 20px;
+  background: -webkit-gradient(linear, left top, right bottom, from(#ffcf91), to(#ff6f5c));
+  background: linear-gradient(to bottom right, #ffcf91, #ff6f5c);
+  border-radius: 50px;
+}
+
+#servicesec .services .flex-container .service-content .ctn:hover {
+  background: -webkit-gradient(linear, left top, right bottom, from(#ff6f5c), to(#ffcf91));
+  background: linear-gradient(to bottom right, #ff6f5c, #ffcf91);
+}
+
+#servicesec .services .flex-container .service-content a {
+  text-decoration: none;
+  color: whitesmoke;
 }
 /*# sourceMappingURL=nelusha.css.map */
