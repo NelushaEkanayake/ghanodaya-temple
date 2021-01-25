@@ -67,19 +67,19 @@
   border: inset;
 }
 
-#donation {
+#donations {
   background-color: rgba(145, 137, 127, 0.199);
   text-align: center;
   margin-top: 3rem;
 }
 
-#donation .donate {
+#donations .donate {
   text-align: center;
   font-size: 25px;
   font-weight: bold;
 }
 
-#donation .donate::after {
+#donations .donate::after {
   border-bottom: 5px solid rgba(14, 6, 85, 0.603);
   display: block;
   margin-left: 20em;
@@ -90,15 +90,15 @@
   border-radius: 10%;
 }
 
-#donation p {
+#donations p {
   font-size: 25px;
 }
 
-#donation .number {
+#donations .number {
   font-size: 32px;
 }
 
-#donation .number .color {
+#donations .number .color {
   background-color: #ffeb3b;
 }
 /*# sourceMappingURL=hirushani.css.map */
