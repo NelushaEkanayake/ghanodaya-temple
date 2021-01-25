@@ -47,7 +47,10 @@
             else if($_GET['tag'] == 'staff')
                 require_once('resources/staff/index.php');
         }
-        
+        else if($_GET['tag'] == 'dev-home')
+                require_once('resources/dev-home/index.php');
+                else if($_GET['tag'] == 'developments')
+                require_once('resources/dev-description/index.php');
 
        /*      require_once('resources/slider/index.php');
             require_once('resources/about/main.php');
