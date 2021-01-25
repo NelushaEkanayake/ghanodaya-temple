@@ -360,6 +360,7 @@
 /*================== DEVELOPMENTS-DESCRIPTION ===============*/
 #developments {
   background-color: aliceblue;
+  padding: 0;
 }
 
 #developments .support-company-area .support-location-img img {
