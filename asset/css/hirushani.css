@@ -28,4 +28,39 @@
   border-width: 10px;
   border: inset;
 }
+
+#donation {
+  background-color: rgba(145, 137, 127, 0.199);
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#donation .donate {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#donation .donate::after {
+  border-bottom: 5px solid rgba(14, 6, 85, 0.603);
+  display: block;
+  margin-left: 20em;
+  content: " ";
+  width: 25%;
+  padding-top: 0.5em;
+  color: linear-gradient(180deg, red, yellow);
+  border-radius: 10%;
+}
+
+#donation p {
+  font-size: 25px;
+}
+
+#donation .number {
+  font-size: 32px;
+}
+
+#donation .number .color {
+  background-color: #ffeb3b;
+}
 /*# sourceMappingURL=hirushani.css.map */
