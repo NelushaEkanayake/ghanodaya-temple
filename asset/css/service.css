@@ -1,0 +1,21 @@
+#service .fontawesome-icon {
+  border-width: 1px;
+  background-color: #e8e8e8;
+  box-sizing: content-box;
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  border-radius: 50%;
+  color: #330984;
+  font-size: 50px;
+  text-align: center;
+}
+
+#service .card {
+  border: none;
+}
+
+#service .card .card-title {
+  margin-bottom: 1.1em;
+}
+/*# sourceMappingURL=service.css.map */
