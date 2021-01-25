@@ -1,113 +1,78 @@
-/* ====================== DONATION ==================*/
-#donation{
-
-  
-    .d-img{
-        width: 100%;
-    }
-  
-  
-    .description{
+#sponcers{
+    .masssege{
+        position: relative;
     
-        padding: 2rem;
-        text-align: center;
-  
-    .d-title{
-        font-size: 25px;
-        font-weight: 700;
-        padding-bottom: 1em;
-        text-align: center;
-        color: rgb(52, 47, 119);
+        i{
+            font-size: 15em;
+            position: absolute;
+            top: 82px;
+            right: 0;
+            left: 0;
+            text-align: center;
+            color: rgba(82, 60, 60, 0.1);
+        }
+        .title{
+            font-size: 25px;
+            font-weight: 700;
+            text-align: center;
+            
+        
+        }
+        .introduction{
+            font-size: 20px;
+            text-align: center;
+        }
        
     }
-    
-  
-         .d-text{
-            
-             font-size: 20px;
-             font-weight: 600;
-            
-         }
-        }
-  
+    .d-img{
+        width: 100%;
+      border-width: 10px;
+      border: inset;
       
-        
-         button{
-             background-color:#28ABE3;
-  
-             display: inline-block;
-             font-size: 18px;
-             letter-spacing: 1px;
-            padding: 12px 40px;
-             border: 0px #28ABE3;
-            border-radius: 40px;
-    
-            font-weight: 600;
-         }
-           
-        }
-
-
-
-        /*==================donation page========================*/
-
-        #sponcers{
-
-            .title{
-                font-size: 25px;
-                font-weight: 700;
-                text-align: center;
-                
-            
-            }
-            .introduction{
-                font-size: 20px;
-                text-align: center;
-            }
-        
-            .d-img{
-                width: 100%;
-              border-width: 10px;
-              
-            }
-            .donate{
-                text-align: center;
-                font-size: 25px;
-                font-weight: bold;
-            }
-            .new{
-                width: 25%;
-               border: 2px solid yellow; 
-               margin-bottom: 5rem;
-               
-            }
-        }
-        
-        
-        #donation{
-            background-color: rgba(145, 137, 127, 0.199);
-            text-align: center;
-            margin-top: 3rem;
-        
-            p{
-                    
-                font-size: 25px;
-            }
-        
-        .number{
-                   
-            font-size: 32px;
-        
-            .color{
-                background-color:#ffeb3b; 
-            }
-        }
-        }
-        
-        
-        
-        
-                                                        
+    }
    
+} 
+
+#donation{
+    background-color: rgba(145, 137, 127, 0.199);
+    text-align: center;
+    margin-top: 3rem;
+
+
+    .donate{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+       
+       
+    }
+    .donate::after{
+        border-bottom:5px solid rgba(14, 6, 85, 0.603);
+        display: block;
+        margin-left:20em;
+        content: " ";
+        width:25%;
+        padding-top: 0.5em;
+        color:linear-gradient(180deg, red, yellow);
+        border-radius: 10%;
     
-  
+    }
+
+    p{
+            
+        font-size: 25px;
+    }
+
+.number{
+           
+    font-size: 32px;
+
+    .color{
+        background-color:#ffeb3b; 
+    }
+}
+
+}
+
+
+
