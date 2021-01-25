@@ -13,8 +13,7 @@
 }
 
 #event .card {
-  -webkit-box-shadow: 0px 0px 30px 9px #e7e4e4;
-          box-shadow: 0px 0px 30px 9px #e7e4e4;
+  box-shadow: 0px 0px 30px 9px #e7e4e4;
 }
 
 #event .card-text {

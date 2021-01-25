@@ -1,3 +1,4 @@
+/* recent videos */
 #recent .container {
   margin-top: 0px;
   padding: 0;
@@ -5,5 +6,28 @@
 
 #recent iframe {
   height: 500px;
+}
+
+/* History */
+#history .conatainer {
+  padding-top: 3em 0;
+}
+
+#history .see {
+  padding-top: 6em;
+  color: #89a7d3;
+  text-align: -webkit-center;
+}
+
+#history .part p {
+  padding-top: 0.5em;
+  text-align: left 100px;
+}
+
+#history .pic .pr {
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  height: 15em;
+  width: 20em;
 }
 /*# sourceMappingURL=roshan.css.map */
