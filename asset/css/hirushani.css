@@ -36,6 +36,7 @@
   font-weight: 600;
 }
 
+/*=========donation page==========*/
 #sponcers .masssege {
   position: relative;
 }
@@ -67,6 +68,7 @@
   border: inset;
 }
 
+/*=========donation page==========*/
 #donations {
   background-color: rgba(145, 137, 127, 0.199);
   text-align: center;
