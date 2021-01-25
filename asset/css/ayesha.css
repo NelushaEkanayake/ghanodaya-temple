@@ -31,6 +31,15 @@
   background-color: #825a00d9;
 }
 
+#navbar-heading .navbar-expand-lg .navbar-nav .dropdown-menu li a {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+#navbar-heading .navbar-expand-lg .navbar-nav .dropdown-menu li :hover {
+  color: #012226;
+}
+
 #navbar-heading .dropdown-item {
   text-transform: none;
 }

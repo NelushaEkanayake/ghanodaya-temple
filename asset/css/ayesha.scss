@@ -28,6 +28,17 @@
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
     background-color: #825a00d9;
+    
+    li{
+      a{
+        color: #ffffff;
+        font-weight: 600;
+      }
+      :hover{
+        color: #012226;
+      }
+    }
+
   }
 
   .dropdown-item {
