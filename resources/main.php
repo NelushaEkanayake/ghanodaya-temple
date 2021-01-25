@@ -30,41 +30,41 @@
 <body>
 
     <?php
-        require_once('resources/header/index.php');
-        require_once('resources/slider/index.php');
-        require_once('resources/gallery/index.php');
-        
-        require_once('resources/event/index.php');
-        require_once('resources/news/index.php');
-        require_once('resources/videos/index.php');
-        require_once('resources/donation/index.php');
-        
+require_once('resources/header/index.php');
+require_once('resources/slider/index.php');
+require_once('resources/gallery/index.php');
 
-        if(isset($_GET['tag'])){
+require_once('resources/event/index.php');
+require_once('resources/news/index.php');
+require_once('resources/videos/index.php');
+require_once('resources/donation/index.php');
 
-            if($_GET['tag'] == 'about-us')
-                require_once('resources/about/index.php');
-            else if($_GET['tag'] == 'staff')
-                require_once('resources/staff/index.php');
-        
-        else if($_GET['tag'] == 'dev-home')
-                require_once('resources/dev-home/index.php');
 
-        else if($_GET['tag'] == 'developments')
-                require_once('resources/dev-description/index.php');
-        }
+if(isset($_GET['tag'])){
 
-       /*      require_once('resources/slider/index.php');
-            require_once('resources/about/main.php');
-            require_once('resources/announcement/main.php');
-            require_once('resources/event/main.php');
-            require_once('resources/news/main.php');
-            require_once('resources/principal-messege/main.php'); */
-          
-  
+if($_GET['tag'] == 'about-us')
+require_once('resources/about/index.php');
+else if($_GET['tag'] == 'staff')
+require_once('resources/staff/index.php');
 
-        require_once('resources/footer/index.php');
-    ?>
+else if($_GET['tag'] == 'dev-home')
+require_once('resources/dev-home/index.php');
+
+else if($_GET['tag'] == 'developments')
+require_once('resources/dev-description/index.php');
+}
+
+/*      require_once('resources/slider/index.php');
+require_once('resources/about/main.php');
+require_once('resources/announcement/main.php');
+require_once('resources/event/main.php');
+require_once('resources/news/main.php');
+require_once('resources/principal-messege/main.php'); */
+
+
+
+require_once('resources/footer/index.php');
+?>
 
 
 
