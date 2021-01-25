@@ -9,10 +9,24 @@
         <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" aria-current="page" href="?sec=home">මුල් පිටුව</a>
+                    <a class="nav-link" aria-current="page" href="?tag=home">මුල් පිටුව</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="">අප ගැන  </a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        අප ගැන 
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="">ඉතිහාසයෙන් බිදක්</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="">අප ගැන </a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="?tag=dev-home">පිරිවෙන් සංවර්ධන කටයුතු</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="">සම්බන්දවන්න</a>

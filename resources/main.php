@@ -38,6 +38,7 @@
         require_once('resources/news/index.php');
         require_once('resources/videos/index.php');
         require_once('resources/donation/index.php');
+        
 
         if(isset($_GET['tag'])){
 
@@ -64,7 +65,7 @@
 
     <script src="asset/js/jquery-3.5.1.min.js"></script>
     <script src="bootstrap-5.0.0-beta1-dist/js/bootstrap.min.js"></script>
-    <script src="assets/js/scroll.js"></script>
+    <script src="asset/js/scroll.js"></script>
     <script src="Magnific-Popup-master/dist/jquery.magnific-popup.js"></script>
     <script>
     $('.test-popup-link').magnificPopup({
