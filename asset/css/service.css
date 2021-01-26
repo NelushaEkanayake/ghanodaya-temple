@@ -1,8 +1,7 @@
 #service .fontawesome-icon {
   border-width: 1px;
   background-color: #e8e8e8;
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   height: 100px;
   width: 100px;
   line-height: 100px;

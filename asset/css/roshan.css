@@ -34,8 +34,8 @@
 /* About */
 #create {
   height: 820px;
-  background: #c0be49;
-  background: radial-gradient(circle, #cf7815 0%, #20a7ac 100%);
+  background: #d8d8cb;
+  background: radial-gradient(circle, #efeff1 0%, #ccdbdb 100%);
 }
 
 #create .container {
@@ -57,8 +57,7 @@ p {
 #create #examp {
   border: 1px solid;
   padding: 5px;
-  -webkit-box-shadow: 5px 10px #888888;
-          box-shadow: 5px 10px #888888;
+  box-shadow: 5px 10px #888888;
   text-align: center;
   width: 1290px;
   margin-left: 12.5px;
