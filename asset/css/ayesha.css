@@ -969,6 +969,7 @@
     list-style-type: none;
     position: absolute;
     text-align: center;
+    padding: 10px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap {
     background: #fff;
@@ -998,7 +999,7 @@
     color: #737980;
     font-size: 16px;
     margin-bottom: 30px;
-    height: 142px;
+    /*         height: 142px; */
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
     background: #0097b5;

@@ -70,7 +70,7 @@
                         ආධාර
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">අනුග්‍රාහක භවතුන්</a></li>
+                        <li><a class="dropdown-item" href="?tag=sponcers">අනුග්‍රාහක භවතුන්</a></li>
                     </ul>
                 </li>
             </ul>
