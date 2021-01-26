@@ -1,0 +1,34 @@
+#youth .para {
+  padding-left: 80px;
+}
+
+#youth .imgdiv img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#youth .imgdiv img:hover {
+  z-index: 1;
+  -webkit-transform: scale(1.25);
+          transform: scale(1.25);
+  -webkit-box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+}
+
+#youth .descrip p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#youth .deshana img {
+  height: 230px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding: 0px;
+}
+
+.youth {
+  background: -webkit-gradient(linear, right top, left top, from(#FBE8A6), to(#F4976C));
+  background: linear-gradient(to left, #FBE8A6, #F4976C);
+}
+/*# sourceMappingURL=nelusha.css.map */
