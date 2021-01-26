@@ -1,3 +1,58 @@
 #slider{
     padding: 0 !important;
 }
+
+// dhamma school
+
+#dhamma{
+    color: rgb(3, 3, 3);
+    
+    .bg-color{
+        background-color:rgba(9, 0, 32, 0.048);
+
+        padding: 4em;
+        
+    }
+
+    .image{
+        img{
+            width: 100%;
+        }
+    }
+
+    .page{
+        
+        P{
+            padding: 2em ;
+            text-align: justify;
+            color: rgb(138, 130, 130);
+        }
+        
+    }
+
+    .box{
+        text-align: center;
+        margin-top: -120px;
+        
+        
+        .dhamma-s{
+            text-align: center;
+            background-color:rgb(255, 255, 255);
+            border-width: 6px;
+            border-style: solid;
+            border-color:rgb(255, 255, 255);
+            box-shadow: 0 0 20px 0px #e2e2e29d;
+            color: rgb(117, 110, 110);
+            padding: 1.5em;
+            margin: 50px;
+        }
+    }
+
+
+        .para{
+            color: rgb(117, 110, 110);
+            text-align: justify;
+        }
+
+
+}

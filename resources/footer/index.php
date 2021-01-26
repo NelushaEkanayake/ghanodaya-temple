@@ -3,19 +3,19 @@
     <footer>
         <div class="container foot-1">
             <div class="row foot-6">
-                <div class=" col-6 col-md-2">
+                <div class=" col-4 col-md-2">
                     <h6>සම්බන්දවන්න</h6>
                 </div>
-                <div class="col-6 col-md-2">
+                <div class="col-4 col-md-2">
                     <h6>අප ගැන</h6>
                 </div>
-                <div class="col-6 col-md-2">
+                <div class="col-4 col-md-2">
                     <h6>ඡායාරූප</h6>
                 </div>
-                <div class="col-6 col-md-3">
+                <div class="col-4 col-md-3">
                     <h6>ආධාර</h6>
                 </div>
-                <div class="col-6 col-md-3">
+                <div class="col-4 col-md-3">
                     <h6>අපගේ සේවාවන්</h6>
                     <ul class="foot-li">
                         <li><a href="">පරිගණක විද්‍යාගාර</a></li>
