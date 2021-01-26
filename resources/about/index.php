@@ -9,7 +9,7 @@
                 <div class="col-md-6 qw">
 
                     <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-gal-home we"
-                            src="asset/img/sr.jpg" alt=""></a>
+                            src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
                 <div class="col-md-6 jk">
 

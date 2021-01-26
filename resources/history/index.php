@@ -35,7 +35,7 @@
 
                         <img src="asset/img/history/temp.jpg" class="d-block w-100 pr " alt="">
 
-                        <img src="asset/img/temp.jpg" class="d-block w-100 pr" alt="">
+                        <img src="asset/img/history/temp.jpg" class="d-block w-100 pr" alt="">
 
                     </div>
                 </div>
