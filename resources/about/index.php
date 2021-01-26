@@ -1,4 +1,5 @@
 <section id="create">
+
     <div id="bg" class="center">
 
 
@@ -8,8 +9,8 @@
 
                 <div class="col-md-6 qw">
 
-                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-gal-home we"
-                            src="asset/img/sr.jpg" alt=""></a>
+                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-fluid we"
+                            src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
                 <div class="col-md-6 jk">
 
@@ -21,8 +22,9 @@
                 </div>
 
                 <div id="examp">
-                    <h1>ABOUT US</h1>
+                    <h1>අපි ගැන</h1>
                 </div>
+
 
                 <div class="col-md-6 lp">
 
@@ -35,15 +37,12 @@
 
                 <div class="col-md-6 op">
 
-                    <a class="test-popup-link" href="asset/img/sr.jpg"> <img class="img-gal-home vb"
-                            src="asset/img/sr.jpg" alt=""></a>
+                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-fluid vb"
+                            src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
-
-
             </div>
+
         </div>
-
     </div>
-
 
 </section>

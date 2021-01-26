@@ -17,19 +17,20 @@
                         අප ගැන 
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="?tag=create">අප ගැන </a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
                         <li><a class="dropdown-item" href="?tag=history">ඉතිහාසයෙන් බිදක්</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="?tag=create">අප ගැන </a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
+                        
                         <li><a class="dropdown-item" href="?tag=dev-home">පිරිවෙන් සංවර්ධන කටයුතු</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">සම්බන්දවන්න</a>
+                    <a class="nav-link" href="?tag=contact">සම්බන්දවන්න</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"
@@ -53,7 +54,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="ropdown-item" href="">දහම් පාසල</a></li>
+                        <li><a class="dropdown-item" href="">දහම් පාසල</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -69,7 +70,7 @@
                         ආධාර
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">අනුග්‍රාහක භවතුන්</a></li>
+                        <li><a class="dropdown-item" href="?tag=sponcers">අනුග්‍රාහක භවතුන්</a></li>
                     </ul>
                 </li>
             </ul>

@@ -12,7 +12,8 @@
     
   }
 
- /* History */ 
+ /* History */
+
  #history{
 
   .conatainer{
@@ -22,7 +23,7 @@
   }
 
   .see{
-     padding-top: 6em ;
+     padding-top: 5em ;
       color:rgb(137, 167, 211);
       text-align: -webkit-center; 
       
@@ -48,13 +49,14 @@
   } 
 
   /* About */ 
+
   #create{
 
     height: 820px;
-    background:rgb(192, 190, 73) ;
+    background:rgb(216, 216, 203) ;
     background: radial-gradient(circle,
-    rgb(207, 120, 21) 0%,
-    rgb(32, 167, 172) 100%
+    rgb(239, 239, 241) 0%,
+    rgb(204, 219, 219) 100%
     
     );
 
@@ -68,9 +70,10 @@
     .we{
 
         margin-top: 1.5em;
+        margin-bottom: 1.5em;
         width: 618px;
-        height: 350px;
-        margin-left:0px ;
+        height: 320px;
+       // margin-left:0px ;
     }
 }
 
@@ -78,13 +81,14 @@
 
      p{
 
-        padding-top: 1.5em;
+        padding-top: 6em;
+        text-align: justify;
     }
 
     #examp {
         border: 1px solid;
         padding: 5px;
-        box-shadow: 5px 10px #888888;
+        //box-shadow: 5px 10px #888888;
         text-align: center;
         width: 1290px;
         margin-left: 12.5px;
@@ -93,16 +97,17 @@
 
       .lp p{
 
-        padding-top: 0.3em;
+        padding-top: 6em;
+        text-align: justify;
       }
 
       .op{
 
         .vb{
-
-            padding-top: 0.6em;
+          padding-top: 1.5em;
+          margin-left:1.5em;
             width: 618px;
-            height: 375px;
+            height: 320px;
     
         }
       }

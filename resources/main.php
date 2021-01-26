@@ -69,8 +69,16 @@ require_once('resources/about/index.php');
 elseif($_GET['tag'] == 'preschool'){
     require_once('resources/preschool/index.php');
 }
+<<<<<<< HEAD
 elseif($_GET['tag'] == 'gallery'){
     require_once('resources/gallery/main.php');
+=======
+elseif($_GET['tag'] == 'contact'){
+    require_once('resources/contac/contac.php');
+}
+elseif($_GET['tag'] == 'sponcers'){
+    require_once('resources/donation/main.php');
+>>>>>>> 353f3949f53231c6dd95379ec1ac4855ff40cc23
 }
 
 require_once('resources/footer/index.php');
