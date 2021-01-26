@@ -22,6 +22,7 @@
     <link href="asset/css/shani.css?v=1" rel="stylesheet">
     <link href="asset/css/nelusha.css?v=1" rel="stylesheet">
     <link href="asset/css/preschool.css?v=1" rel="stylesheet">
+    <link href="asset/css/com.css?v=1" rel="stylesheet">
 
     <link href="asset/css/com.css?v=1" rel="stylesheet">
 
