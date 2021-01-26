@@ -70,6 +70,7 @@ elseif($_GET['tag'] == 'preschool'){
     require_once('resources/preschool/index.php');
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 elseif($_GET['tag'] == 'gallery'){
     require_once('resources/gallery/main.php');
 =======
@@ -78,6 +79,9 @@ elseif($_GET['tag'] == 'contact'){
 }
 elseif($_GET['tag'] == 'sponcers'){
     require_once('resources/donation/main.php');
+<<<<<<< HEAD
+>>>>>>> 353f3949f53231c6dd95379ec1ac4855ff40cc23
+=======
 >>>>>>> 353f3949f53231c6dd95379ec1ac4855ff40cc23
 }
 
