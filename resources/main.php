@@ -69,6 +69,9 @@ require_once('resources/about/index.php');
 elseif($_GET['tag'] == 'preschool'){
     require_once('resources/preschool/index.php');
 }
+elseif($_GET['tag'] == 'contact'){
+    require_once('resources/contac/contac.php');
+}
 
 require_once('resources/footer/index.php');
 ?>

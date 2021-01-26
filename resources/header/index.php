@@ -29,7 +29,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">සම්බන්දවන්න</a>
+                    <a class="nav-link" href="?tag=contact">සම්බන්දවන්න</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button"

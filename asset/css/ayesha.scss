@@ -28,13 +28,14 @@
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
     background-color: #825a00d9;
-    
-    li{
-      a{
+
+    li {
+      a {
         color: #ffffff;
         font-weight: 600;
       }
-      :hover{
+
+      :hover {
         color: #012226;
       }
     }
@@ -67,6 +68,31 @@
   footer a {
     color: #5d5d5d;
     text-decoration: none !important;
+
+    .scrollToTop {
+      border: 1px solid #fff;
+      color: #fff;
+      border-radius: 50px;
+      background: linear-gradient(45deg, #096e7c 0%, #ff3434 100%);
+      bottom: 105px;
+      display: none;
+      font-size: 32px;
+      font-weight: bold;
+      height: 50px;
+      position: fixed;
+      right: 75px;
+      text-align: center;
+      text-decoration: none;
+      width: 50px;
+      z-index: 9999;
+      transition: all 0.5s;
+    }
+
+    .scrollToTop:hover,
+    .scrollToTop:focus {
+      text-decoration: none;
+      outline: none;
+    }
   }
 
   .foot-1 {
@@ -277,31 +303,6 @@
     color: #777;
     text-decoration: none;
   }
-  .scrollToTop {
-    border: 1px solid #fff;
-    color: #fff;
-    border-radius: 50px;
-    background: linear-gradient(45deg, #096e7c 0%, #ff3434 100%);
-    bottom: 105px;
-    display: none;
-    font-size: 32px;
-    font-weight: bold;
-    height: 50px;
-    position: fixed;
-    right: 75px;
-    text-align: center;
-    text-decoration: none;
-    width: 50px;
-    z-index: 9999;
-    transition: all 0.5s;
-  }
-  
-  .scrollToTop:hover,
-  .scrollToTop:focus {
-    text-decoration: none;
-    outline: none;
-  }
-
 }
 
 #foot2 {
@@ -396,7 +397,8 @@
 /*================== DEVELOPMENTS-DESCRIPTION ===============*/
 #developments {
   background-color: aliceblue;
-padding: 0;
+  padding: 0;
+
   .support-company-area {
     .support-location-img {
       img {
@@ -633,12 +635,12 @@ padding: 0;
 
   .section-tittle {
     span {
-      font-size: 18px;
+      font-size: 22px;
       font-family: roboto, sans-serif;
-      font-weight: 500;
+      font-weight: 600;
       margin-bottom: 17px;
       text-transform: uppercase;
-      color: #eb566c;
+      color: rgb(147, 50, 4);
       display: inline-block;
       position: relative;
       padding-left: 68px;
@@ -649,7 +651,7 @@ padding: 0;
       content: "";
       width: 54px;
       height: 2px;
-      background: #eb566c;
+      background: rgb(147, 50, 4);
       top: 0;
       left: 0;
       top: 50%;
@@ -661,6 +663,7 @@ padding: 0;
       display: block;
       color: #092c3f;
       font-weight: 900;
+      margin-bottom: 10px;
     }
 
   }
@@ -709,10 +712,12 @@ padding: 0;
         background: #fff;
         padding: 90px 86px 36px 81px;
         margin-top: -5em;
+        height: 600px;
 
         h3 {
           font-weight: 500;
           height: 220px;
+          margin-bottom: 0;
 
 
           a {
@@ -723,6 +728,7 @@ padding: 0;
             font-weight: 700;
             line-height: 1.4;
             display: block;
+            margin-bottom: 0;
 
             :focus {
               color: #092c3f;
@@ -735,7 +741,7 @@ padding: 0;
           color: #737980;
           font-size: 16px;
           margin-bottom: 30px;
-          height: 170px;
+         height: 142px;
 
         }
 
@@ -749,20 +755,18 @@ padding: 0;
           cursor: pointer;
           display: inline-block;
           font-size: 14 px;
-          border-radius: 0;
+          border-radius: 5px;
           -moz-user-select: none;
           font-weight: 500;
           letter-spacing: 1px;
           line-height: 0;
-          margin-bottom: 0;
-          margin: 10px;
+          padding-bottom: 2e;
           cursor: pointer;
           transition: color .4s linear;
           position: relative;
           z-index: 1;
           border: 0;
           overflow: hidden;
-          margin-top: 2em;
         }
 
         .post-btn:hover {
