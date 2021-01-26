@@ -1,4 +1,5 @@
 <section id="create">
+
     <div id="bg" class="center">
 
 
@@ -24,6 +25,7 @@
                     <h1>අපි ගැන</h1>
                 </div>
 
+
                 <div class="col-md-6 lp">
 
                     <p>දේවමාළිගාවක් යනු ආගමික හෝ අධ්‍යාත්මික චාරිත්‍ර හා යාච් prayer ාව
@@ -38,12 +40,9 @@
                     <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-fluid vb"
                             src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
-
-
             </div>
+
         </div>
-
     </div>
-
 
 </section>
