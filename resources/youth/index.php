@@ -1,4 +1,4 @@
-<section id= youth class= "youth" style=";">
+<section id= "youth" class= "youth" style=";">
   <div class= "container co"> 
     <div class="row">
         <div class=" col-lg-12 mx-auto" >

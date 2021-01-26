@@ -17,11 +17,11 @@
                         අප ගැන 
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">ඉතිහාසයෙන් බිදක්</a></li>
+                        <li><a class="dropdown-item" href="?tag=history">ඉතිහාසයෙන් බිදක්</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">අප ගැන </a></li>
+                        <li><a class="dropdown-item" href="?tag=create">අප ගැන </a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -37,7 +37,7 @@
                         අපගේ සේවාවන්
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">පරිගණක විද්‍යාගාර</a></li>
+                        <li><a class="dropdown-item" href="?tag=service">පරිගණක විද්‍යාගාර</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -49,7 +49,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">පෙර පාසල</a></li>
+                        <li><a class="dropdown-item" href="?tag=preschool">පෙර පාසල</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -57,7 +57,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">තරුණ බෞද්ධ සංවිධානය</a></li>
+                        <li><a class="dropdown-item" href="?tag=youth">තරුණ බෞද්ධ සංවිධානය</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
