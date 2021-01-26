@@ -1,4 +1,12 @@
-
+	//Check to see if the window is top if not then display button
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 300) {
+            $('.scrollToTop').fadeIn();
+        } else {
+            $('.scrollToTop').fadeOut();
+        }
+    });
+    
 	//Click event to scroll to top
     $('.scrollToTop').click(function() {
         $('html, body').animate({
@@ -7,12 +15,3 @@
         return false;
     });
     
-	$('.tootlip').tooltip();
-    
-	$("ul#ticker01").liScroll();
-    
-	
-wow = new WOW({
-    animateClass: 'animated',
-    offset: 100
-});
