@@ -13,12 +13,84 @@
 }
 
 #event .card {
-  -webkit-box-shadow: 0px 0px 30px 9px #e7e4e4;
-          box-shadow: 0px 0px 30px 9px #e7e4e4;
+  box-shadow: 0px 0px 30px 9px #e7e4e4;
 }
 
 #event .card-text {
   text-align: justify;
   padding: 15px;
+}
+
+/* ======================= contac ==================*/
+#contact .img {
+  padding: 1em 0;
+  margin: 4em 0;
+}
+
+#contact .img .container {
+  padding: 3em 0;
+}
+
+#contact .img .container .row {
+  padding: 2em;
+  margin: 0;
+}
+
+#contact .img .container .row .main {
+  padding: 1px 1px 30px 1px;
+}
+
+#contact .img .container .row .main .icon-main .icon {
+  padding: 1em;
+  text-align: center;
+}
+
+#contact .img .container .row .main .icon-main .icon i {
+  padding: 0.4em;
+  color: #000;
+}
+
+#contact .img .container .row .main .icon-main .icon p {
+  display: inline;
+  color: #000;
+  padding-right: 5em;
+}
+
+#contact .img .container .row .main .map {
+  height: 420px;
+}
+
+#contact .img .container .form {
+  padding: 1em;
+}
+
+#contact .img .container .form h3 {
+  color: #000;
+  font-size: 25px;
+}
+
+#contact .img .container .form p {
+  color: #000;
+  padding-left: 10px;
+}
+
+#contact .img .container .form label {
+  color: #000;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#contact .img .container .fimg {
+  padding-left: 10em;
+  padding-top: 3em;
+}
+
+#contact .form-control {
+  background-color: #bab5b580;
+  padding-bottom: 15px;
+}
+
+#contact .form-control::placeholder {
+  color: #000;
 }
 /*# sourceMappingURL=shani.css.map */

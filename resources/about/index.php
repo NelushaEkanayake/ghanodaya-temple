@@ -35,8 +35,8 @@
 
                 <div class="col-md-6 op">
 
-                    <a class="test-popup-link" href="asset/img/sr.jpg"> <img class="img-gal-home vb"
-                            src="asset/img/sr.jpg" alt=""></a>
+                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-gal-home vb"
+                            src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
 
 
