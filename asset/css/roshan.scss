@@ -68,8 +68,9 @@
     .we{
 
         margin-top: 1.5em;
+        margin-bottom: 1.5em;
         width: 618px;
-        height: 350px;
+        height: 320px;
         margin-left:0px ;
     }
 }
@@ -78,13 +79,14 @@
 
      p{
 
-        padding-top: 1.5em;
+        padding-top: 6em;
+        text-align: justify;
     }
 
     #examp {
         border: 1px solid;
         padding: 5px;
-        box-shadow: 5px 10px #888888;
+        //box-shadow: 5px 10px #888888;
         text-align: center;
         width: 1290px;
         margin-left: 12.5px;
@@ -93,16 +95,17 @@
 
       .lp p{
 
-        padding-top: 0.3em;
+        padding-top: 6em;
+        text-align: justify;
       }
 
       .op{
 
         .vb{
-
-            padding-top: 0.6em;
+          padding-top: 1.5em;
+          margin-left:1.5em;
             width: 618px;
-            height: 375px;
+            height: 320px;
     
         }
       }
