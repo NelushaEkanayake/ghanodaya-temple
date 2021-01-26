@@ -74,6 +74,8 @@ elseif($_GET['tag'] == 'preschool'){
 elseif($_GET['tag'] == 'gallery'){
     require_once('resources/gallery/main.php');
 =======
+=======
+>>>>>>> 353f3949f53231c6dd95379ec1ac4855ff40cc23
 elseif($_GET['tag'] == 'contact'){
     require_once('resources/contac/contac.php');
 }
