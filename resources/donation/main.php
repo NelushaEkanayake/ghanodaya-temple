@@ -28,11 +28,11 @@
 
         <div class="row pt-5 mt-5">
             <div class="col-md-8 p-2">
-                <img src="asset/img/2.jpg" class="d-img" alt="...">
+                <img src="asset/img/donation/2.jpg" class="d-img" alt="...">
             </div>
             <div class="col-md-4 p-2">
-                <img src="asset/img/3.jpg" class="d-img mb-2">
-                <img src="asset/img/4.jpg" class="d-img" alt="...">
+                <img src="asset/img/donation/3.jpg" class="d-img mb-2">
+                <img src="asset/img/donation/4.jpg" class="d-img" alt="...">
             </div>
         </div>
      </div>
@@ -63,19 +63,19 @@
 <p class="name p-5"> ඥානෝදය විහාරස්ථානයේ ඉදිකිරීම් සදහා පින්වත් ඔබගේ ආධාර පහත ගිණුමට බැර කළ හැකිය</p>
 
 <div class="col-md-3">
-<img src="asset/img/5.png " class="logo m-2">
+<img src="asset/img/donation/5.png" class="logo m-2">
 </div>
 
 <div class="col-md-3">
-<img src="asset/img/5.png " class="logo  m-2">
+<img src="asset/img/donation/5.png " class="logo  m-2">
 </div>
 
 <div class="col-md-3">
-<img src="asset/img/5.png " class="logo m-2">
+<img src="asset/img/donation/5.png " class="logo m-2">
 </div>
 
 <div class="col-md-3">
-<img src="asset/img/5.png " class="logo m-2">
+<img src="asset/img/donation/5.png " class="logo m-2">
 </div>
 </div>
 
