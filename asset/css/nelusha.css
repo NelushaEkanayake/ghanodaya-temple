@@ -1,3 +1,70 @@
+#youth .cardcontainer {
+  position: relative;
+  width: 320px;
+  height: 450px;
+  padding: 0px;
+}
+
+#youth .cardcontainer .card:hover {
+  transform: rotateY(180deg);
+}
+
+#youth .cardcontainer .card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+}
+
+#youth .cardcontainer .card .thefront {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #ffc728;
+  color: #333;
+}
+
+#youth .cardcontainer .card .thefront img {
+  height: 100%;
+  width: 100%;
+  transition: 0.7s;
+}
+
+#youth .cardcontainer .card .thefront .bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: #ffffff;
+  font-size: x-large;
+}
+
+#youth .cardcontainer .card .theback {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #fafafa;
+  color: #333;
+  transform: rotateY(180deg);
+}
+
+#youth .cardcontainer .card .theback h5 {
+  text-align: center;
+  padding-top: 40px;
+}
+
+#youth .cardcontainer .card .theback p {
+  padding: 20px;
+  text-align: center;
+}
+
+#youth .co h3 {
+  text-align: center;
+  margin-top: 80px;
+}
+
 #youth .para {
   padding-left: 80px;
 }
@@ -24,6 +91,6 @@
 }
 
 .youth {
-  background: linear-gradient(to left, #FBE8A6, #F4976C);
+  background-color: #F2F3F4;
 }
 /*# sourceMappingURL=nelusha.css.map */
