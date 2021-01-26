@@ -91,9 +91,16 @@
 /*=========donation page==========*/ 
 
 #donations{
-    background-color: rgba(145, 137, 127, 0.199);
+   
     text-align: center;
     margin-top: 3rem;
+    padding-bottom: 3rem;
+
+.background{
+    background-color: rgba(145, 137, 127, 0.199);
+}
+    
+
 
 
     .donate{
@@ -127,9 +134,14 @@
     .color{
         background-color:#ffeb3b; 
     }
+  
 }
+.spon{
+    
+    margin-top: 5rem;
 
 }
 
+}
 
 
