@@ -658,7 +658,7 @@
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
   font-weight: 500;
-  height: 240px;
+  height: 220px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -668,7 +668,6 @@
   font-size: 30px;
   font-weight: 700;
   line-height: 1.4;
-  margin-bottom: 20px;
   display: block;
 }
 
