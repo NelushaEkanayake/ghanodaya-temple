@@ -29,7 +29,7 @@
 
 
 
-<section id="donation">
+<section id="donations">
 
     <div class="col-md-12">
 
@@ -46,3 +46,4 @@
         </div>
     </div>
 </section>
+

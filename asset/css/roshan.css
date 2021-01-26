@@ -1,3 +1,4 @@
+/* recent videos */
 #recent .container {
   margin-top: 0px;
   padding: 0;
@@ -5,5 +6,71 @@
 
 #recent iframe {
   height: 500px;
+}
+
+/* History */
+#history .conatainer {
+  padding-top: 3em 0;
+}
+
+#history .see {
+  padding-top: 6em;
+  color: #89a7d3;
+  text-align: -webkit-center;
+}
+
+#history .part p {
+  padding-top: 0.5em;
+  text-align: left 100px;
+}
+
+#history .pic .pr {
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  height: 15em;
+  width: 20em;
+}
+
+/* About */
+#create {
+  height: 820px;
+  background: #c0be49;
+  background: radial-gradient(circle, #cf7815 0%, #20a7ac 100%);
+}
+
+#create .container {
+  padding: 0%;
+}
+
+#create .qw .we {
+  margin-top: 1.5em;
+  width: 618px;
+  height: 350px;
+  margin-left: 0px;
+}
+
+#create .jk
+p {
+  padding-top: 1.5em;
+}
+
+#create #examp {
+  border: 1px solid;
+  padding: 5px;
+  -webkit-box-shadow: 5px 10px #888888;
+          box-shadow: 5px 10px #888888;
+  text-align: center;
+  width: 1290px;
+  margin-left: 12.5px;
+}
+
+#create .lp p {
+  padding-top: 0.3em;
+}
+
+#create .op .vb {
+  padding-top: 0.6em;
+  width: 618px;
+  height: 375px;
 }
 /*# sourceMappingURL=roshan.css.map */

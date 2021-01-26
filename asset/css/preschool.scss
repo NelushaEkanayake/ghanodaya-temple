@@ -1,0 +1,43 @@
+#preschool{
+   
+    .row{
+        padding: 50px;
+        .card{
+            border: none;
+            .card-title{
+                margin-bottom: revert;
+            }
+            .card-text{
+                text-align: justify;
+                color: #6f6b6b;
+
+               
+            }
+        }
+
+        .preschool-img{
+                position: relative;
+                text-align: center;
+                    .main-img{
+                        border-radius: 100%;
+                        height: auto;
+                        width: 100%;
+                        border: 10px solid #f1f1f1; 
+                    }
+                    .inset-img{
+                        border-radius: 100%;
+                        height: auto;
+                        width: 40%;
+                        border: 10px solid #f1f1f1;
+                        position: absolute;
+                        right: -46px;
+                        }
+                    }
+            
+                }
+        
+        }
+    
+        
+        
+    

@@ -1,4 +1,46 @@
 #slider {
   padding: 0 !important;
 }
+
+#dhamma {
+  color: #030303;
+}
+
+#dhamma .bg-color {
+  background-color: rgba(9, 0, 32, 0.048);
+  padding: 4em;
+}
+
+#dhamma .image img {
+  width: 100%;
+}
+
+#dhamma .page P {
+  padding: 2em;
+  text-align: justify;
+  color: #8a8282;
+}
+
+#dhamma .box {
+  text-align: center;
+  margin-top: -120px;
+}
+
+#dhamma .box .dhamma-s {
+  text-align: center;
+  background-color: white;
+  border-width: 6px;
+  border-style: solid;
+  border-color: white;
+  -webkit-box-shadow: 0 0 20px 0px #e2e2e29d;
+          box-shadow: 0 0 20px 0px #e2e2e29d;
+  color: #756e6e;
+  padding: 1.5em;
+  margin: 50px;
+}
+
+#dhamma .para {
+  color: #756e6e;
+  text-align: justify;
+}
 /*# sourceMappingURL=isuru.css.map */
