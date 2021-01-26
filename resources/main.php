@@ -78,8 +78,8 @@ elseif($_GET['tag'] == 'contact'){
 }
 elseif($_GET['tag'] == 'sponcers'){
     require_once('resources/donation/main.php');
-}
 
+}
 require_once('resources/footer/index.php');
 ?>
 
