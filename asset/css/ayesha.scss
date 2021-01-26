@@ -277,6 +277,30 @@
     color: #777;
     text-decoration: none;
   }
+  .scrollToTop {
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50px;
+    background: linear-gradient(45deg, #096e7c 0%, #ff3434 100%);
+    bottom: 105px;
+    display: none;
+    font-size: 32px;
+    font-weight: bold;
+    height: 50px;
+    position: fixed;
+    right: 75px;
+    text-align: center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 9999;
+    transition: all 0.5s;
+  }
+  
+  .scrollToTop:hover,
+  .scrollToTop:focus {
+    text-decoration: none;
+    outline: none;
+  }
 
 }
 
