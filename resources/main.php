@@ -72,13 +72,13 @@ elseif($_GET['tag'] == 'preschool'){
 
 elseif($_GET['tag'] == 'gallery'){
     require_once('resources/gallery/main.php');
-
+}
 elseif($_GET['tag'] == 'contact'){
     require_once('resources/contac/contac.php');
 }
 elseif($_GET['tag'] == 'sponcers'){
     require_once('resources/donation/main.php');
-
+}
 
 require_once('resources/footer/index.php');
 ?>
