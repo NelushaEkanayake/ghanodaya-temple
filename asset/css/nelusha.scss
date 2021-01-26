@@ -1,0 +1,39 @@
+#youth{
+
+    .para{
+        padding-left:80px;
+    }
+    .imgdiv{
+        img{
+            object-fit: cover;
+            
+        }
+        img:hover{
+            
+            z-index: 1;
+            transform: scale(1.25);
+            box-shadow: 0 25px 40px rgba(0,0,0,.5);
+        }
+    }
+    
+    .descrip{
+
+        p{
+            font-size: 20px; 
+             font-weight: bold; 
+        }
+    }
+
+    .deshana{
+        img{
+            height: 230px;
+            object-fit: cover; 
+            padding: 0px;
+        }
+    }
+
+}
+
+.youth{
+    background:linear-gradient(to left,#FBE8A6,#F4976C);
+}
