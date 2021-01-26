@@ -6,17 +6,14 @@
 }
 
 #youth .cardcontainer .card:hover {
-  -webkit-transform: rotateY(180deg);
-          transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
 
 #youth .cardcontainer .card {
   position: absolute;
   width: 100%;
   height: 100%;
-  -webkit-transform-style: preserve-3d;
-          transform-style: preserve-3d;
-  -webkit-transition: all 0.5s ease;
+  transform-style: preserve-3d;
   transition: all 0.5s ease;
 }
 
@@ -24,8 +21,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   background: #ffc728;
   color: #333;
 }
@@ -33,7 +29,6 @@
 #youth .cardcontainer .card .thefront img {
   height: 100%;
   width: 100%;
-  -webkit-transition: 0.7s;
   transition: 0.7s;
 }
 
@@ -49,12 +44,10 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   background: #fafafa;
   color: #333;
-  -webkit-transform: rotateY(180deg);
-          transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
 
 #youth .cardcontainer .card .theback h5 {
@@ -77,16 +70,13 @@
 }
 
 #youth .imgdiv img {
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 #youth .imgdiv img:hover {
   z-index: 1;
-  -webkit-transform: scale(1.25);
-          transform: scale(1.25);
-  -webkit-box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
-          box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+  transform: scale(1.25);
+  box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
 }
 
 #youth .descrip p {
@@ -96,8 +86,7 @@
 
 #youth .deshana img {
   height: 230px;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   padding: 0px;
 }
 

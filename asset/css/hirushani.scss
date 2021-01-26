@@ -51,6 +51,7 @@
 
 
 /*=========donation page==========*/ 
+
 #sponcers{
     .masssege{
         position: relative;
@@ -58,7 +59,7 @@
         i{
             font-size: 15em;
             position: absolute;
-            top: 90px;
+            top: 82px;
             right: 0;
             left: 0;
             text-align: center;
@@ -87,17 +88,12 @@
    
 } 
 
+/*=========donation page==========*/ 
+
 #donations{
-   
+    background-color: rgba(145, 137, 127, 0.199);
     text-align: center;
     margin-top: 3rem;
-    padding-bottom: 3rem;
-
-.background{
-    background-color: rgba(145, 137, 127, 0.199);
-}
-    
-
 
 
     .donate{
@@ -131,18 +127,9 @@
     .color{
         background-color:#ffeb3b; 
     }
-  
-}
-.spon{
-    
-    margin-top: 5rem;
-
 }
 
 }
-
-
-
 
 
 
