@@ -784,6 +784,7 @@
   #developments .support-company-area .support-caption p {
     color: #dce4e3;
     font-weight: 400;
+    padding: 20px;
   }
   #developments .support-company-area .support-caption p .pera-top {
     font-size: 25px;
@@ -963,13 +964,18 @@
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
+    font-size: 0.98em;
+    font-family: roboto, sans-serif;
     font-weight: 600;
     color: #06527e;
+    padding: 25px 30px 25px 30px;
     background-color: #ffc007bf;
     list-style-type: none;
-    position: absolute;
+    position: relative;
+    width: 70%;
+    margin-top: -2.5em;
     text-align: center;
-    padding: 10px;
+    margin-left: 2.3em;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap {
     background: #fff;
@@ -999,7 +1005,7 @@
     color: #737980;
     font-size: 16px;
     margin-bottom: 30px;
-    /*         height: 142px; */
+    height: 142px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
     background: #0097b5;
