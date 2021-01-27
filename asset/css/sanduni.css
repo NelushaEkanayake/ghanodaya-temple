@@ -46,14 +46,14 @@
   padding: 15px;
 }
 
-#garbage .garbage {
+#garbage .card-body {
   padding: 30px;
   background-color: #adcce9;
   width: 523px;
   height: 493px;
 }
 
-#garbage .garbage .img {
+#garbage .card-body .img {
   width: 523px;
   height: 357px;
   margin: 45px auto 0 -138px;
@@ -96,5 +96,50 @@
   border: 10px solid #f1f1f1;
   position: absolute;
   right: -46px;
+}
+
+.lab {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+.lab .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
+}
+
+#garbage .card {
+  padding: 30px 120px 30px 30px;
+  border: none;
+  position: initial;
+}
+
+#garbage .card .card-text {
+  margin: 20px 0 20px;
+  color: #6f6b6b;
+}
+
+#garbage .card .button5 {
+  color: #414040;
+  border: 2px solid #555555;
+  padding: 15px;
+}
+
+#garbage .garbage {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+#garbage .garbage .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
 }
 /*# sourceMappingURL=sanduni.css.map */
