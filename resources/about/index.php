@@ -1,15 +1,17 @@
 <section id="create">
 
-    <div id="bg" class="center">
-
+    
+<div id="bg" class="center">
 
         <div class="container">
 
             <div class="row">
 
+            
+
                 <div class="col-md-6 qw">
 
-                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-fluid we"
+                   <img class="img-fluid we"
                             src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
                 <div class="col-md-6 jk">
@@ -20,11 +22,11 @@
                         ඉංග්‍රීසියෙන් භාවිතා නොකරන සියලුම ආගම්වලට අයත් ගොඩනැගිලි සඳහා මෙම යෙදුම සාමාන්‍යයෙන් භාවිතා වේ
                     </p>
                 </div>
-
-                <div id="examp">
-                    <h1>අපි ගැන</h1>
+                <div id="examp" class = "exa">
+                    <h1>බුද්ධාගම යනු ලෝක උදාර සත්‍යයකි</h1>
                 </div>
 
+               
 
                 <div class="col-md-6 lp">
 
@@ -37,12 +39,13 @@
 
                 <div class="col-md-6 op">
 
-                    <a class="test-popup-link" href="asset/img/about/sr.jpg"> <img class="img-fluid vb"
+                   <img class="img-fluid vb"
                             src="asset/img/about/sr.jpg" alt=""></a>
                 </div>
+              
             </div>
 
         </div>
-    </div>
+  </div>
 
 </section>
