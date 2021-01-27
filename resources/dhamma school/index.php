@@ -2,7 +2,7 @@
     <div class="container" >
         <div class="row bg-color">
             <div class="col-md-6 image">
-            <img src="asset/img/2.jpg" alt="">
+            <img src="asset/img/dhamma/2.jpg" alt="">
             </div>
                     <div class="col-md-6 page">
 

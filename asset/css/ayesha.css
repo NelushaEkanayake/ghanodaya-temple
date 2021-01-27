@@ -390,7 +390,9 @@
 
 #developments .support-company-area .support-location-img img {
   width: 100%;
-  transition: all .5s ease-out 0s;
+  box-shadow: 0 0 4px 2px #686464;
+  border: 6px solid #fff;
+  background: white;
 }
 
 #developments .support-company-area .left-caption {
@@ -670,6 +672,7 @@
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
   font-weight: 500;
+  color: #c4c4c4;
   margin-bottom: 15px;
 }
 
@@ -725,7 +728,7 @@
 }
 
 /* ===================== THEME RESPONSIVE -DEVELOPMENTS ==========================*/
-@media only screen and (max-width: 992x) {
+@media only screen and (min-width: 992x) {
   #developments {
     background-color: aliceblue;
     padding: 0;
@@ -733,7 +736,6 @@
   #developments .support-company-area .support-location-img img {
     width: 100%;
     transition: all .5s ease-out 0s;
-    float: left;
   }
   #developments .support-company-area .left-caption {
     text-align: right;
@@ -936,7 +938,7 @@
   #dev-home .section-tittle h2 {
     font-size: 50px;
     display: block;
-    color: #092c3f;
+    color: #ffffff;
     font-weight: 900;
     margin-bottom: 10px;
   }
