@@ -33,7 +33,8 @@
 #contact {
   .fontawesome-icon {
     border-width: 1px;
-    background-color: #e8e8e8;
+    background-color: #ffffff;
+    border: solid #cccccc;
     box-sizing: content-box;
     height: 100px;
     width: 100px;
@@ -42,18 +43,27 @@
     color: #330984;
     font-size: 50px;
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
   }
 
   .card {
     border: none;
 
     .card-body {
-      border: 1px solid;
+      height: 25em;
+      box-shadow: 0px -1px 20px 5px #cccccc40;
+
+      p{
+        color: #8d8b8b;
+      }
     }
 
     .card-title {
       margin-bottom: 1.1em;
+      font-size: 1.5em;
     }
+    
   }
 
   .row {
