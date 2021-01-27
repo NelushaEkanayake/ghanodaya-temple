@@ -39,6 +39,7 @@ require_once('resources/header/index.php');
 if(!isset($_GET['tag']) || $_GET['tag'] =='home'){
 require_once('resources/slider/index.php');
 require_once('resources/gallery/index.php');
+require_once('resources/service/index.php');
 require_once('resources/event/index.php');
 require_once('resources/news/index.php');
 require_once('resources/videos/index.php');
@@ -58,11 +59,6 @@ require_once('resources/history/index.php');
 elseif($_GET['tag'] == 'youth'){
 require_once('resources/youth/index.php');
 }
-
-elseif($_GET['tag'] == 'service'){
-require_once('resources/service/index.php');
-}
-
 elseif($_GET['tag'] == 'create'){
 require_once('resources/about/index.php');
 }
