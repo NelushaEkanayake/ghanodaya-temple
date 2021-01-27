@@ -1,3 +1,4 @@
+
 <section id="garbage">
     <div class="container">
 
@@ -25,7 +26,7 @@
                             සහ සුවිශේෂි අනන්‍යතාව හේතුවෙනි . අප විද්‍යාලයට ආවේණික වු මෙම හර පද්ධතිය අතීතයත් ,
                             වර්තමානයත්හර
                             පද්ධතිය
-                            සහ සුවිශේෂි අනන්‍යතාව හේතුවෙනි . අප විද්‍යාලයට ආවේණික වු මෙම හර පද්ධතිය අතීතයත් ,
+                            සහ  අනන්‍යතාව හේතුවෙනි . අප විද්‍යාලයට ආවේණික වු මෙම හර පද්ධතිය අතීතයත් ,
                             වර්තමානයත්
                         </p>
                         <button class="button button5">වැඩිදුර තොරතුරු</button>
@@ -34,14 +35,10 @@
             </div>
 
             <div class="col-sm-6">
-                <div class="des">
-
-                    <div class="lab">
-                        <img class="img" src="asset/img/garbage/1.jpg" alt="" width="100%">
-                    </div>
+                <div class="garbage">
+                    <img class="img" src="asset/img/garbage/1.jpg" alt="" width="100%">
                 </div>
             </div>
         </div>
-
     </div>
 </section>
