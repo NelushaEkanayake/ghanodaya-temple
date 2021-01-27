@@ -627,6 +627,7 @@
   transition: all .4s ease-out 0s;
   margin-bottom: 30px;
   box-shadow: 6px 6px 6px #e2e2e1;
+  height: 660px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-img {
@@ -664,13 +665,12 @@
   background: #fff;
   padding: 90px 86px 36px 81px;
   margin-top: -5em;
-  height: 600px;
+  height: 390px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
   font-weight: 500;
-  height: 220px;
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -682,17 +682,11 @@
   line-height: 1.4;
   display: block;
   margin-bottom: 0;
+  height: 210px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a :focus {
   color: #092c3f;
-}
-
-#dev-home .home-blog-single .blog-img-cap .blog-cap p {
-  color: #737980;
-  font-size: 16px;
-  margin-bottom: 30px;
-  height: 142px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
@@ -958,7 +952,6 @@
   #dev-home .home-blog-single .blog-img-cap .blog-img img {
     width: 100%;
     transition: all .5s ease-out 0s;
-    height: 310px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
     transform: scale 1;
@@ -982,11 +975,9 @@
     background: #fff;
     padding: 90px 86px 36px 81px;
     margin-top: -5em;
-    height: 600px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
     font-weight: 500;
-    height: 220px;
     margin-bottom: 0;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -1001,12 +992,6 @@
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a :focus {
     color: #092c3f;
-  }
-  #dev-home .home-blog-single .blog-img-cap .blog-cap p {
-    color: #737980;
-    font-size: 16px;
-    margin-bottom: 30px;
-    height: 142px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
     background: #0097b5;
