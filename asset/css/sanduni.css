@@ -46,14 +46,14 @@
   padding: 15px;
 }
 
-#garbage .card-body {
+#garbage .garbage {
   padding: 30px;
   background-color: #adcce9;
   width: 523px;
   height: 493px;
 }
 
-#garbage .card-body .img {
+#garbage .garbage .img {
   width: 523px;
   height: 357px;
   margin: 45px auto 0 -138px;
