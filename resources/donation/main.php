@@ -60,7 +60,7 @@
   
     <div class="container spon">
     <div class="row ">
-<p class="name p-5"> ඥානෝදය විහාරස්ථානයේ ඉදිකිරීම් සදහා පින්වත් ඔබගේ ආධාර පහත ගිණුමට බැර කළ හැකිය</p>
+<p class="name p-5"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
 
 <div class="col-md-3">
 <img src="asset/img/donation/5.png" class="logo m-2">

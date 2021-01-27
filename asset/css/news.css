@@ -6,7 +6,8 @@
 #news .card .card-img {
   margin-top: -20px;
   border-radius: 5px;
-  box-shadow: 1px 0px 0px 0px #dbd2db;
+  -webkit-box-shadow: 1px 0px 0px 0px #dbd2db;
+          box-shadow: 1px 0px 0px 0px #dbd2db;
 }
 
 #news .card .card-title {
