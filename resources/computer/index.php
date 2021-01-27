@@ -22,7 +22,7 @@
                 <div class="des">
 
                     <div class="lab">
-                        <img class="img" src="asset/img/3.jpg" alt="" width="100%">
+                        <img class="img" src="asset/img/computer/1.jpg" alt="" width="100%">
                     </div>
                 </div>
             </div>

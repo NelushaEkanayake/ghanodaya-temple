@@ -21,7 +21,7 @@
     <link href="asset/css/roshan.css?v=1" rel="stylesheet">
     <link href="asset/css/shani.css?v=1" rel="stylesheet">
     <link href="asset/css/nelusha.css?v=1" rel="stylesheet">
-    <link href="asset/css/preschool.css?v=1" rel="stylesheet">
+    <link href="asset/css/sanduni.css?v=1" rel="stylesheet">
     <link href="asset/css/com.css?v=1" rel="stylesheet">
 
  <!--    <link href="asset/css/com.css?v=1" rel="stylesheet"> -->
@@ -81,7 +81,11 @@ elseif($_GET['tag'] == 'sponcers'){
 
 }
 elseif($_GET['tag'] == 'garbage'){
-    require_once('resources/garbage/main.php');
+    require_once('resources/garbage/index.php');
+
+}
+elseif($_GET['tag'] == 'computerlab'){
+    require_once('resources/computer/index.php');
 
 }
 
