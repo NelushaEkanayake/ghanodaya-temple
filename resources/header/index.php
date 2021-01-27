@@ -46,10 +46,6 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">සංගීත කන්ඩායම</a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
                         <li><a class="dropdown-item" href="?tag=preschool">පෙර පාසල</a></li>
                         <li>
                             <hr class="dropdown-divider">
