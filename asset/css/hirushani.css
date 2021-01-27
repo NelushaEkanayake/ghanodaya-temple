@@ -65,14 +65,17 @@
 #sponcers .d-img {
   width: 100%;
   border-width: 10px;
-  border: inset;
 }
 
 /*=========donation page==========*/
 #donations {
-  background-color: rgba(145, 137, 127, 0.199);
   text-align: center;
   margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+#donations .background {
+  background-color: rgba(145, 137, 127, 0.199);
 }
 
 #donations .donate {
@@ -102,5 +105,9 @@
 
 #donations .number .color {
   background-color: #ffeb3b;
+}
+
+#donations .spon {
+  margin-top: 5rem;
 }
 /*# sourceMappingURL=hirushani.css.map */

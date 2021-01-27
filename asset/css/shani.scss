@@ -28,7 +28,7 @@
 /* ======================= contac ==================*/  
 
 #contact {
-  
+
   .img {
       padding: 1em 0;
       margin: 4em 0;
@@ -46,6 +46,7 @@
                   .icon-main .icon {
                       padding: 1em;
                       text-align: center;
+                      border: #000 solid 1px;
                     }
 
                     .icon-main .icon i {
@@ -87,7 +88,6 @@
             }
 
             .fimg{
-              padding-left: 10em;
               padding-top: 3em;
             }
         }

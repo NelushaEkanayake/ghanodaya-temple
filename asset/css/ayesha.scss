@@ -787,7 +787,7 @@
 }
 
 /* ===================== THEME RESPONSIVE -DEVELOPMENTS ==========================*/
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 991.98px) {
 #developments {
   background-color: aliceblue;
   padding: 0;
@@ -797,6 +797,7 @@
       img {
         width: 100%;
         transition: all .5s ease-out 0s;
+        float: left;
       }
     }
 
@@ -860,6 +861,7 @@
 
         color: #dce4e3;
         font-weight: 400;
+        padding: 20px;
 
 
         .pera-top {
@@ -1085,13 +1087,18 @@
 
         ul {
           li {
-          font-weight: 600;
-          color: #06527e;    
-          background-color: #ffc007bf;
-          list-style-type: none;
-          position: absolute;
-          text-align: center;
-
+            font-size: 0.98em;
+            font-family: roboto, sans-serif;
+            font-weight: 600;
+            color: #06527e;
+            padding: 25px 30px 25px 30px;
+            background-color: #ffc007bf;
+            list-style-type: none;
+            position: relative;
+            width: 70%;
+            margin-top: -2.5em;
+            text-align: center;
+            margin-left: 2.3em;
           }
         }
       }
