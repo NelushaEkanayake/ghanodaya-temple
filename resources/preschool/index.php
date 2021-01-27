@@ -17,8 +17,8 @@
 
             <div class="col-sm-5">
                 <div class="preschool-img">
-                    <img class="main-img" src="asset/img/5.jpg" alt="" width="100%">
-                    <img class="inset-img" src="asset/img/2.jpg" alt="" width="100%">
+                    <img class="main-img" src="asset/img/preschool/5.jpg" alt="" width="100%">
+                    <img class="inset-img" src="asset/img/preschool/2.jpg" alt="" width="100%">
                 </div>
             </div>
         </div>

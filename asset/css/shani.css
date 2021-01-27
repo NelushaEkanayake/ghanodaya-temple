@@ -13,7 +13,8 @@
 }
 
 #event .card {
-  box-shadow: 0px 0px 30px 9px #e7e4e4;
+  -webkit-box-shadow: 0px 0px 30px 9px #e7e4e4;
+          box-shadow: 0px 0px 30px 9px #e7e4e4;
 }
 
 #event .card-text {
@@ -43,6 +44,7 @@
 #contact .img .container .row .main .icon-main .icon {
   padding: 1em;
   text-align: center;
+  border: #000 solid 1px;
 }
 
 #contact .img .container .row .main .icon-main .icon i {
@@ -81,13 +83,24 @@
 }
 
 #contact .img .container .fimg {
-  padding-left: 10em;
   padding-top: 3em;
 }
 
 #contact .form-control {
   background-color: #bab5b580;
   padding-bottom: 15px;
+}
+
+#contact .form-control::-webkit-input-placeholder {
+  color: #000;
+}
+
+#contact .form-control:-ms-input-placeholder {
+  color: #000;
+}
+
+#contact .form-control::-ms-input-placeholder {
+  color: #000;
 }
 
 #contact .form-control::placeholder {

@@ -1,0 +1,145 @@
+#computerlab .card {
+  padding: 30px 120px 30px 30px;
+  border: none;
+  position: initial;
+}
+
+#computerlab .card .card-text {
+  margin: 20px 0 20px;
+  color: #6f6b6b;
+}
+
+#computerlab .card .button5 {
+  color: #414040;
+  border: 2px solid #555555;
+  padding: 15px;
+}
+
+#computerlab .lab {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+#computerlab .lab .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
+}
+
+#garbage .card {
+  padding: 30px 120px 30px 30px;
+  border: none;
+  position: initial;
+}
+
+#garbage .card .card-text {
+  margin: 20px 0 20px;
+  color: #6f6b6b;
+}
+
+#garbage .card .button5 {
+  color: #414040;
+  border: 2px solid #555555;
+  padding: 15px;
+}
+
+#garbage .card-body {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+#garbage .card-body .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
+}
+
+#preschool .row {
+  padding: 50px;
+}
+
+#preschool .row .card {
+  border: none;
+}
+
+#preschool .row .card .card-title {
+  margin-bottom: revert;
+}
+
+#preschool .row .card .card-text {
+  text-align: justify;
+  color: #6f6b6b;
+}
+
+#preschool .row .preschool-img {
+  position: relative;
+  text-align: center;
+}
+
+#preschool .row .preschool-img .main-img {
+  border-radius: 100%;
+  height: auto;
+  width: 100%;
+  border: 10px solid #f1f1f1;
+}
+
+#preschool .row .preschool-img .inset-img {
+  border-radius: 100%;
+  height: auto;
+  width: 40%;
+  border: 10px solid #f1f1f1;
+  position: absolute;
+  right: -46px;
+}
+
+.lab {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+.lab .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
+}
+
+#garbage .card {
+  padding: 30px 120px 30px 30px;
+  border: none;
+  position: initial;
+}
+
+#garbage .card .card-text {
+  margin: 20px 0 20px;
+  color: #6f6b6b;
+}
+
+#garbage .card .button5 {
+  color: #414040;
+  border: 2px solid #555555;
+  padding: 15px;
+}
+
+#garbage .garbage {
+  padding: 30px;
+  background-color: #adcce9;
+  width: 523px;
+  height: 493px;
+}
+
+#garbage .garbage .img {
+  width: 523px;
+  height: 357px;
+  margin: 45px auto 0 -138px;
+  border: 7px solid #ffffff;
+}
+/*# sourceMappingURL=sanduni.css.map */

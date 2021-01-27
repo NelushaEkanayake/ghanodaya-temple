@@ -21,7 +21,7 @@
     <link href="asset/css/roshan.css?v=1" rel="stylesheet">
     <link href="asset/css/shani.css?v=1" rel="stylesheet">
     <link href="asset/css/nelusha.css?v=1" rel="stylesheet">
-    <link href="asset/css/preschool.css?v=1" rel="stylesheet">
+    <link href="asset/css/sanduni.css?v=1" rel="stylesheet">
     <link href="asset/css/com.css?v=1" rel="stylesheet">
 
  <!--    <link href="asset/css/com.css?v=1" rel="stylesheet"> -->
@@ -39,6 +39,7 @@ require_once('resources/header/index.php');
 if(!isset($_GET['tag']) || $_GET['tag'] =='home'){
 require_once('resources/slider/index.php');
 require_once('resources/gallery/index.php');
+require_once('resources/service/index.php');
 require_once('resources/event/index.php');
 require_once('resources/news/index.php');
 require_once('resources/videos/index.php');
@@ -58,22 +59,30 @@ require_once('resources/history/index.php');
 elseif($_GET['tag'] == 'youth'){
 require_once('resources/youth/index.php');
 }
-
-elseif($_GET['tag'] == 'service'){
-require_once('resources/service/index.php');
-}
-
 elseif($_GET['tag'] == 'create'){
 require_once('resources/about/index.php');
 }
 elseif($_GET['tag'] == 'preschool'){
     require_once('resources/preschool/index.php');
 }
+
+elseif($_GET['tag'] == 'gallery'){
+    require_once('resources/gallery/main.php');
+}
 elseif($_GET['tag'] == 'contact'){
     require_once('resources/contac/contac.php');
 }
 elseif($_GET['tag'] == 'sponcers'){
     require_once('resources/donation/main.php');
+
+}
+elseif($_GET['tag'] == 'garbage'){
+    require_once('resources/garbage/index.php');
+
+}
+elseif($_GET['tag'] == 'computerlab'){
+    require_once('resources/computer/index.php');
+
 }
 
 require_once('resources/footer/index.php');
