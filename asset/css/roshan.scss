@@ -52,13 +52,16 @@
 
   #create{
 
-    height: 820px;
+    //height: 820px;
     background:rgb(216, 216, 203) ;
     background: radial-gradient(circle,
     rgb(239, 239, 241) 0%,
     rgb(204, 219, 219) 100%
     
     );
+
+
+  
 
 .container{
 
@@ -70,10 +73,15 @@
     .we{
 
         margin-top: 1.5em;
-        margin-bottom: 1.5em;
-        width: 618px;
-        height: 320px;
+       // margin-bottom: 1.5em;
+       // margin-right: 1em;
+       // width: 618px;
+      //  height: 320px;
        // margin-left:0px ;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 500px;
     }
 }
 
@@ -81,37 +89,54 @@
 
      p{
 
-        padding-top: 6em;
+        padding-top: 5em;
         text-align: justify;
+        text-align: center;
+        font-size: medium;
     }
 
     #examp {
-        border: 1px solid;
+        //border: 1px solid;
         padding: 5px;
         //box-shadow: 5px 10px #888888;
         text-align: center;
         width: 1290px;
-        margin-left: 12.5px;
+       // margin-left: 12.5px;
+       padding-top: 2.5em;
         
       }
 
+      
+      
+
       .lp p{
 
-        padding-top: 6em;
-        text-align: justify;
+        padding-top: 4.5em;
+      text-align: justify;
+      text-align: center;
+      font-size: medium;
       }
 
       .op{
 
         .vb{
-          padding-top: 1.5em;
-          margin-left:1.5em;
-            width: 618px;
-            height: 320px;
+          padding-top: 2.6em;
+         //@at-root margin-left:1em;
+          //  width: 618px;
+         //   height: 320px;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 500px;
+        
     
         }
       }
 }
+
+
+
+
 
 
 
