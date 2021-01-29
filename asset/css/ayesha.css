@@ -64,34 +64,8 @@
 }
 
 #footerstyle footer a {
-  color: #5d5d5d;
+  color: #cac3c3;
   text-decoration: none !important;
-}
-
-#footerstyle footer a .scrollToTop {
-  border: 1px solid #fff;
-  color: #fff;
-  border-radius: 50px;
-  background: linear-gradient(45deg, #096e7c 0%, #ff3434 100%);
-  bottom: 105px;
-  display: none;
-  font-size: 32px;
-  font-weight: bold;
-  height: 50px;
-  position: fixed;
-  right: 75px;
-  text-align: center;
-  text-decoration: none;
-  width: 50px;
-  z-index: 9999;
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
-}
-
-#footerstyle footer a .scrollToTop:hover,
-#footerstyle footer a .scrollToTop:focus {
-  text-decoration: none;
-  outline: none;
 }
 
 #footerstyle .foot-1 {
@@ -238,7 +212,6 @@
   padding: 5px 10px;
   margin-left: 5px;
   margin-bottom: 10px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -254,7 +227,6 @@
   display: block;
   padding: 8px 5px;
   font-size: 13px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -279,7 +251,6 @@
   display: block;
   padding: 3px 5px;
   font-size: 14px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -304,77 +275,92 @@
   margin-bottom: 0;
 }
 
-#foot2 .fa {
-  display: inline-block;
-  color: white;
-  font: normal normal normal 20px/1 FontAwesome;
-  font-size: inherit;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#foot2 .footer_bottom {
-  display: inline;
-  float: left;
-  padding: 10px 10px 0;
-  width: 100%;
-}
-
 #foot2 .footer_bottom_left {
-  float: left;
   display: inline;
   width: 50%;
-  text-align: left;
+  text-align: end;
 }
 
 #foot2 .footer_bottom_left p {
-  color: #fff;
-  font-size: 13px;
-  margin-top: 5px;
+  color: #c0bbbb;
+  font-size: 15px;
 }
 
 #foot2 .footer_bottom_right {
-  float: right;
-  display: inline;
-  width: 50%;
-  text-align: right;
+  float: left;
 }
 
-#foot2 .footer_bottom_right li {
-  display: inline-block;
+#foot2 .footer_bottom_right .list-icons {
+  display: inline-flex;
+  color: #c5cae9;
 }
 
-#foot2 .footer_bottom_right li a {
-  background-color: #f13b3b;
-  border-radius: 50%;
+#foot2 .footer_bottom_right .list-icons li {
+  list-style: none;
+  padding: 12px;
+  border-radius: 50px;
+  width: 49px;
+  margin-right: 10px;
+}
+
+#foot2 .footer_bottom_right .list-icons li i {
+  font-size: 17px;
   color: #fff;
-  display: inline-block;
-  margin-bottom: 8px;
-  opacity: 0.7;
-  padding: 6px 10px;
-  width: 2em;
 }
 
-#foot2 .footer_bottom_right li a:hover {
-  opacity: 1;
+#foot2 .footer_bottom_right .list-icons li :hover {
+  color: #161515;
 }
 
-#foot2 .footer_bottom_right li:nth-of-type(1) a {
-  background-color: #2ab2e3;
+@media (max-width: 700px) {
+  #foot2 .footer_bottom_right .list-icons li .list-icons {
+    display: block;
+  }
 }
 
-#foot2 .footer_bottom_right li:nth-of-type(2) a {
-  background-color: #3b5998;
-  padding: 6px 12px;
+#foot2 .footer_bottom_right .list-icons .facebook {
+  background: #00277a;
 }
 
-#foot2 .footer_bottom_right li:nth-of-type(4) a {
-  background-color: #d42e33;
+#foot2 .footer_bottom_right .list-icons .instagram {
+  background: #064578;
 }
 
-#foot2 .footer_bottom_right li:nth-of-type(5) a {
-  background-color: #e36f36;
+#foot2 .footer_bottom_right .list-icons .youtube {
+  background: #6e0000;
+}
+
+#foot2 .footer_bottom_right .list-icons .whatsapp {
+  background: #066501;
+}
+
+#foot2 .footer_bottom_right .list-icons .pinterest {
+  background: #cd060c;
+}
+
+.scrollToTop {
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 50px;
+  background: linear-gradient(45deg, #096e7c 0%, #ff3434 100%);
+  bottom: 105px;
+  display: none;
+  font-size: 32px;
+  font-weight: bold;
+  height: 50px;
+  position: fixed;
+  right: 75px;
+  text-align: center;
+  text-decoration: none;
+  width: 50px;
+  z-index: 9999;
+  transition: all 0.5s;
+}
+
+.scrollToTop:hover,
+.scrollToTop:focus {
+  text-decoration: none;
+  outline: none;
 }
 
 /*==================== PAGE TOP SECTION =============================*/
@@ -394,11 +380,9 @@
 
 #developments .support-company-area .support-location-img img {
   width: 100%;
-    box-shadow: 0 0 4px 2px #686464;
+  box-shadow: 0 0 4px 2px #686464;
   border: 6px solid #fff;
   background: white;
-    -webkit-transition: all .5s ease-out 0s;
-  transition: all .5s ease-out 0s;
 }
 
 #developments .support-company-area .left-caption {
@@ -427,8 +411,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #developments .support-company-area .left-caption .section-tittle2 span::before {
@@ -478,7 +461,6 @@
   margin-bottom: 0;
   margin: 10px;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -489,8 +471,7 @@
 }
 
 #developments .support-company-area .support-caption .post-btn1:hover {
-  -webkit-transform: scaleX(1);
-          transform: scaleX(1);
+  transform: scaleX(1);
   color: #000 !important;
   background-color: #ffffff;
 }
@@ -520,8 +501,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #developments .support-company-area .right-caption .section-tittle2 span::before {
@@ -569,7 +549,6 @@
   margin-bottom: 0;
   margin: 10px;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -582,8 +561,7 @@
   transform: scaleX(1.1);
   color: #000 !important;
   background-color: #ffffff;
-  -webkit-transition-delay: 0.4s;
-          transition-delay: 0.4s;
+  transition-delay: 0.4s;
   -webkit-transform: scaleX(1.1);
   -moz-transform: scaleX(1.1);
   -ms-transform: scaleX(1.1);
@@ -626,8 +604,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #dev-home .section-tittle h2 {
@@ -639,11 +616,9 @@
 }
 
 #dev-home .home-blog-single {
-  -webkit-transition: all .4s ease-out 0s;
   transition: all .4s ease-out 0s;
   margin-bottom: 30px;
-  -webkit-box-shadow: 6px 6px 6px #e2e2e1;
-          box-shadow: 6px 6px 6px #e2e2e1;
+  box-shadow: 6px 6px 6px #e2e2e1;
   height: 660px;
 }
 
@@ -654,15 +629,12 @@
 
 #dev-home .home-blog-single .blog-img-cap .blog-img img {
   width: 100%;
-  -webkit-transition: all .5s ease-out 0s;
   transition: all .5s ease-out 0s;
   height: 310px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
-  -webkit-transform: scale 1;
-          transform: scale 1;
-  -webkit-transition: all .5s ease-out 0s;
+  transform: scale 1;
   transition: all .5s ease-out 0s;
 }
 
@@ -727,7 +699,6 @@
   line-height: 0;
   padding-bottom: 2e;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -739,8 +710,7 @@
   transform: scaleX(1.1);
   color: #000 !important;
   background-color: #ff7525;
-  -webkit-transition-delay: 0.4s;
-          transition-delay: 0.4s;
+  transition-delay: 0.4s;
   -webkit-transform: scaleX(1.1);
   -moz-transform: scaleX(1.1);
   -ms-transform: scaleX(1.1);
@@ -755,7 +725,6 @@
   }
   #developments .support-company-area .support-location-img img {
     width: 100%;
-    -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
   }
   #developments .support-company-area .left-caption {
@@ -782,8 +751,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #developments .support-company-area .left-caption .section-tittle2 span::before {
     background: #2116c1;
@@ -828,7 +796,6 @@
     margin-bottom: 0;
     margin: 10px;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -838,8 +805,7 @@
     float: right;
   }
   #developments .support-company-area .support-caption .post-btn1:hover {
-    -webkit-transform: scaleX(1);
-            transform: scaleX(1);
+    transform: scaleX(1);
     color: #000 !important;
     background-color: #ffffff;
   }
@@ -866,8 +832,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #developments .support-company-area .right-caption .section-tittle2 span::before {
     background: #f0a909;
@@ -909,7 +874,6 @@
     margin-bottom: 0;
     margin: 10px;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -921,8 +885,7 @@
     transform: scaleX(1.1);
     color: #000 !important;
     background-color: #ffffff;
-    -webkit-transition-delay: 0.4s;
-            transition-delay: 0.4s;
+    transition-delay: 0.4s;
     -webkit-transform: scaleX(1.1);
     -moz-transform: scaleX(1.1);
     -ms-transform: scaleX(1.1);
@@ -960,8 +923,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #dev-home .section-tittle h2 {
     font-size: 50px;
@@ -971,11 +933,9 @@
     margin-bottom: 10px;
   }
   #dev-home .home-blog-single {
-    -webkit-transition: all .4s ease-out 0s;
     transition: all .4s ease-out 0s;
     margin-bottom: 30px;
-    -webkit-box-shadow: 6px 6px 6px #e2e2e1;
-            box-shadow: 6px 6px 6px #e2e2e1;
+    box-shadow: 6px 6px 6px #e2e2e1;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img {
     overflow: hidden;
@@ -983,13 +943,10 @@
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img img {
     width: 100%;
-    -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
-    -webkit-transform: scale 1;
-            transform: scale 1;
-    -webkit-transition: all .5s ease-out 0s;
+    transform: scale 1;
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
@@ -1045,7 +1002,6 @@
     line-height: 0;
     padding-bottom: 2e;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -1056,8 +1012,7 @@
     transform: scaleX(1.1);
     color: #000 !important;
     background-color: #ff7525;
-    -webkit-transition-delay: 0.4s;
-            transition-delay: 0.4s;
+    transition-delay: 0.4s;
     -webkit-transform: scaleX(1.1);
     -moz-transform: scaleX(1.1);
     -ms-transform: scaleX(1.1);

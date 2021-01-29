@@ -67,28 +67,24 @@
                     </div>
                 </section>
             </div>
-            <a class="scrollToTop" href="#"><i class="fas fa-angle-up"></i></a>
+        </div>
+    </section>
+
+        <section id="foot2" class="col-md-12 row m-0">
+            <div class="col-12 col-md-6 footer_bottom_left">
+                <p>&copy; By : D.M.A.M. Dissanyaka | 2020-December. &middot; <a href="#">Privacy</a> &middot; <a
+                        href="#">Terms</a></p>
+            </div>
+
+            <div class="col-12 col-md-6 footer_bottom_right justify-content-end text-center ">
+                <ul class="list-icons">
+                    <li class="facebook"> <i class="fab fa-facebook-square"></i></li>
+                    <li class="youtube"> <i class="fab fa-youtube"></i></li>
+                    <li class="instagram"> <i class="fab fa-instagram"></i></li>
+                    <li class="whatsapp"> <i class="fab fa-whatsapp"></i></li>
+                    <li class="pinterest"> <i class="fab fa-pinterest"></i></li>
+                </ul>
+            </div>
+        </section>
+        <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
     </footer>
-</section>
-<section id="foot2" class="col-md-12 row m-0 pt-3">
-
-    <div class="col-12 col-md-6 footer_bottom_left">
-
-        <p>&copy; By : D.M.A.M. Dissanyaka | 2020-December. &middot; <a href="#">Privacy</a> &middot; <a
-                href="#">Terms</a></p>
-    </div>
-    <div class="col-12 col-md-6 footer_bottom_right">
-        <ul>
-            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" href="#"><i
-                        class="fab fa-twitter"></i></a></li>
-            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" href="#"><i
-                        class="fab fa-facebook"></i></a></li>
-            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Googel+" href="#"><i
-                        class="fab fa-google-plus"></i></a></li>
-            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Youtube" href="#"><i
-                        class="fab fa-youtube"></i></a></li>
-            <li><a class="btn" data-bs-toggle="tooltip" data-bs-placement="top" title="Rss" href="#"><i
-                        class="fas fa-rss"></i></a></li>
-        </ul>
-    </div>
-</section>

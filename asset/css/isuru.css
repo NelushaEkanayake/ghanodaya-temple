@@ -32,8 +32,7 @@
   border-width: 6px;
   border-style: solid;
   border-color: white;
-  -webkit-box-shadow: 0 0 20px 0px #e2e2e29d;
-          box-shadow: 0 0 20px 0px #e2e2e29d;
+  box-shadow: 0 0 20px 0px #e2e2e29d;
   color: #756e6e;
   padding: 1.5em;
   margin: 50px;
