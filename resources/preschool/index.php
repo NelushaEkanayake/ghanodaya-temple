@@ -1,7 +1,7 @@
 <section id="preschool">
     <div class="container">
         <div class="row">
-            <div class="col-sm-7">
+            <div class="col-sm-7 align-self-center ">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">රත්නමාලි පෙර පාසල</h5>
@@ -12,7 +12,7 @@
                             ප්‍රතිසංවිධානය කරමින් පෝෂණය කිරීම අප විද්‍යාලයේ දීර්ඝ කාලීන අභිමානයට හේතු වේ .</p>
 
                     </div>
-                </div>
+                </div>                                                                       
             </div>
 
             <div class="col-sm-5">
