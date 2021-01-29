@@ -85,7 +85,7 @@
   font-weight: bold;
 }
 
-p {
+.bank {
   font-size: 25px;
   text-align: center;
 }
@@ -121,7 +121,7 @@ p {
   color: white;
 }
 
-#donations p {
+#donations .bank {
   font-size: 28px;
   color: white;
 }
