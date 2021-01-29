@@ -1,7 +1,7 @@
 <section id="preschool">
     <div class="container">
         <div class="row">
-            <div class="col-sm-7">
+            <div class="col-sm-7 align-self-center ">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">රත්නමාලි පෙර පාසල</h5>
