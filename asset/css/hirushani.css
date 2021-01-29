@@ -121,7 +121,7 @@ p {
   color: white;
 }
 
-#donations p {
+#donations .bank {
   font-size: 28px;
   color: white;
 }
