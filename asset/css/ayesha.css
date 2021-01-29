@@ -18,7 +18,6 @@
 
 #navbar-heading .navbar a {
   color: #000000;
-  font-family: "Courgette", cursive;
   z-index: 100;
 }
 
@@ -240,7 +239,6 @@
 
 #footerstyle .label_nav li a:before {
   display: inline-block;
-  font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
   line-height: 1;
@@ -256,7 +254,6 @@
 
 #footerstyle .link_nav li a:before {
   display: inline-block;
-  font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
   line-height: 1;
@@ -393,7 +390,6 @@
 
 #developments .support-company-area .left-caption .section-tittle span {
   font-size: 18px;
-  font-family: roboto, sans-serif;
   font-weight: 600;
   margin-bottom: 17px;
   text-transform: uppercase;
@@ -441,14 +437,12 @@
   font-size: 25px;
   font-weight: 500;
   color: #fff;
-  font-family: roboto, sans-serif;
 }
 
 #developments .support-company-area .support-caption .post-btn1 {
   background: #0097b5;
   padding: 27px 44px;
   text-transform: uppercase;
-  font-family: roboto, sans-serif;
   color: #fff;
   outline: medium;
   cursor: pointer;
@@ -482,7 +476,6 @@
 
 #developments .support-company-area .right-caption .section-tittle span {
   font-size: 18px;
-  font-family: roboto, sans-serif;
   font-weight: 600;
   margin-bottom: 17px;
   text-transform: uppercase;
@@ -528,14 +521,12 @@
   font-size: 25px;
   font-weight: 500;
   color: #fff;
-  font-family: roboto, sans-serif;
 }
 
 #developments .support-company-area .support-caption .post-btn {
   background: #0097b5;
   padding: 27px 44px;
   text-transform: uppercase;
-  font-family: roboto, sans-serif;
   color: #fff;
   outline: medium;
   cursor: pointer;
@@ -585,7 +576,6 @@
 
 #dev-home .section-tittle span {
   font-size: 22px;
-  font-family: roboto, sans-serif;
   font-weight: 600;
   margin-bottom: 17px;
   text-transform: uppercase;
@@ -639,7 +629,6 @@
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
-  font-family: roboto, sans-serif;
   font-weight: 600;
   color: #ffffff;
   box-shadow: 3px 2px 5px #a19e9e;
@@ -689,7 +678,6 @@
   background: #0097b5;
   padding: 27px 44px;
   text-transform: uppercase;
-  font-family: roboto, sans-serif;
   color: #fff;
   outline: medium;
   cursor: pointer;
@@ -737,7 +725,6 @@
   }
   #developments .support-company-area .left-caption .section-tittle span {
     font-size: 18px;
-    font-family: roboto, sans-serif;
     font-weight: 600;
     margin-bottom: 17px;
     text-transform: uppercase;
@@ -780,13 +767,11 @@
     font-size: 25px;
     font-weight: 500;
     color: #fff;
-    font-family: roboto, sans-serif;
   }
   #developments .support-company-area .support-caption .post-btn1 {
     background: #0097b5;
     padding: 27px 44px;
     text-transform: uppercase;
-    font-family: roboto, sans-serif;
     color: #fff;
     outline: medium;
     cursor: pointer;
@@ -817,7 +802,6 @@
   }
   #developments .support-company-area .right-caption .section-tittle span {
     font-size: 18px;
-    font-family: roboto, sans-serif;
     font-weight: 600;
     margin-bottom: 17px;
     text-transform: uppercase;
@@ -857,13 +841,11 @@
     font-size: 25px;
     font-weight: 500;
     color: #fff;
-    font-family: roboto, sans-serif;
   }
   #developments .support-company-area .support-caption .post-btn {
     background: #0097b5;
     padding: 27px 44px;
     text-transform: uppercase;
-    font-family: roboto, sans-serif;
     color: #fff;
     outline: medium;
     cursor: pointer;
@@ -908,7 +890,6 @@
   }
   #dev-home .section-tittle span {
     font-size: 18px;
-    font-family: roboto, sans-serif;
     font-weight: 600;
     margin-bottom: 17px;
     text-transform: uppercase;
@@ -955,7 +936,6 @@
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
-    font-family: roboto, sans-serif;
     font-weight: 600;
     color: #ffffff;
     box-shadow: 3px 2px 5px #a19e9e;
@@ -1001,7 +981,6 @@
     background: #0097b5;
     padding: 27px 44px;
     text-transform: uppercase;
-    font-family: roboto, sans-serif;
     color: #fff;
     outline: medium;
     cursor: pointer;
@@ -1039,7 +1018,6 @@
   }
   #dev-home .section-tittle span {
     font-size: 18px;
-    font-family: roboto, sans-serif;
     font-weight: 600;
     margin-bottom: 17px;
     text-transform: uppercase;
@@ -1086,7 +1064,6 @@
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
-    font-family: roboto, sans-serif;
     font-weight: 600;
     color: #ffffff;
     box-shadow: 3px 2px 5px #a19e9e;
@@ -1132,7 +1109,6 @@
     background: #0097b5;
     padding: 15px 22px;
     text-transform: uppercase;
-    font-family: roboto, sans-serif;
     color: #fff;
     outline: medium;
     cursor: pointer;
