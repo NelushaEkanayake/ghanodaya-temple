@@ -4,8 +4,9 @@
       
             <p class="title">පින් කරනු කැමති අයට පින්බර අවස්ථාවක්</p>
             <hr>
-            <i class="fas fa-dharmachakra"></i>
+            
             <p class="title">තෙරුවන් සරණයි!</p>
+            <i class="fas fa-dharmachakra"></i>
             <p class="introduction">ඒ භාග්‍යවත් වූ අර්හත් වූ
                 සම්මා සම්බුදුරජාණන් වහන්සේගේ
                 ශ‍්‍රීමත් සර්වඥ ධාතූන් වහන්සේලා ද
@@ -24,6 +25,7 @@
                 ශ‍්‍රීමත් ධාතූන් වහන්සේලා ද
                 වඩාහිඳුවීමෙන් සුපූජනීය වූ,
                 මහා තෙද, මහා බල ආශිර්වාදය පැතිරුණ</p>
+                
         </div>
 
         <div class="row pt-5 mt-5">
@@ -40,11 +42,12 @@
 
 
 
-<section id="donations">
 
-    <div class="col-md-12 background p-5">
+ <section id="donations"> 
 
-        <p class="donate pt-3"> ඥානෝදය විහාරස්ථානයේ ඉදිකිරීම් සදහා පින්වත් ඔබගේ ආධාර පහත ගිණුමට බැර කළ හැකිය</p>
+    <div class="col-md-12 background pb-5">
+
+        <p class="donate pt-5"> ඥානෝදය විහාරස්ථානයේ ඉදිකිරීම් සදහා පින්වත් ඔබගේ ආධාර පහත ගිණුමට බැර කළ හැකිය</p>
 
         <div class="col-md-12 pt-3 account">
             <p> ඥානෝදය සංවර්ධන අරමුදල</p>
@@ -56,9 +59,10 @@
             <p>සම්පත් බැංකුව, හෙට්ටිපොළ ශාඛාව.</p>
         </div>
     </div>
+    </section>
 
-  
-    <div class="container spon">
+  <section id="spon">
+    <div class="container">
     <div class="row ">
 <p class="name p-5"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
 

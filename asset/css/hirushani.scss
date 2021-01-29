@@ -56,16 +56,7 @@
     .masssege{
         position: relative;
     
-        i{
-            font-size: 15em;
-            position: absolute;
-            top: 82px;
-            right: 0;
-            left: 0;
-            text-align: center;
-            color: rgba(82, 60, 60, 0.1);
-           
-        }
+       
         .title{
             font-size: 25px;
             font-weight: 700;
@@ -73,11 +64,25 @@
             
         
         }
+
+        i{
+            font-size: 15em;
+            position: absolute;
+            top: 120px;
+            right: 0;
+            left: 0;
+            text-align: center;
+            color: rgba(82, 60, 60, 0.1);
+           
+        }
+       
         .introduction{
             font-size: 20px;
             text-align: center;
+            padding-top: 2rem;
         }
-       
+
+        
     }
     .d-img{
         width: 100%;
@@ -87,44 +92,79 @@
     }
    
 } 
+/*=========image==========*/ 
+#buddhist{
+    background-attachment: fixed;
+    background-image: url("../img/donation/s10.jpg");
+    background-size: cover;
+    display: inline;
+    float: left;
+    width: 100%;
+   
+    opacity: 60%;
+    
+   
+  
+    
+  }
+  
+ 
 
-/*=========donation page==========*/ 
+  .donate{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+p{
+            
+    font-size: 25px;
+    text-align: center;
+}
+
+.number{
+       
+font-size: 32px;
+
+.color{
+    background-color:#ffeb3b; 
+}
+
+}
+
+
+
+// =========donation page==========
 
 #donations{
-   
+    padding: 0;
+     background-attachment: fixed;
+    background-image: url("../img/donation/s10.jpg");
+    background-size: cover;
+    display: inline;
+    float: left;
+    width: 100%;
+   opacity: 80%;
     text-align: center;
-    margin-top: 3rem;
-    padding-bottom: 3rem;
-
-.background{
-    background-color: rgba(145, 137, 127, 0.199);
-}
-    
+ 
+  .background{
+    background-color: #000000b5;
+  }
 
 
-
-    .donate{
+.donate{
         text-align: center;
-        font-size: 25px;
+        font-size: 30px;
         font-weight: bold;
-       
-       
-    }
-    .donate::after{
-        border-bottom:5px solid rgba(14, 6, 85, 0.603);
-        display: block;
-        margin-left:20em;
-        content: " ";
-        width:25%;
-        padding-top: 0.5em;
-        color:linear-gradient(180deg, red, yellow);
-        border-radius: 10%;
-    
+        color: white;
+   
     }
 
     p{
             
-        font-size: 25px;
+        font-size: 28px;
+        color: white;
     }
 
 .number{
@@ -132,16 +172,17 @@
     font-size: 32px;
 
     .color{
-        background-color:#ffeb3b; 
+        background-color:#f7bf08; 
     }
   
 }
 .spon{
     
-    margin-top: 5rem;
+    margin-top: 3rem;
 
 }
 
 }
+
 
 
