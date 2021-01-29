@@ -50,7 +50,7 @@
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="">දහම් පාසල</a></li>
+                        <li><a class="dropdown-item" href="?tag=dhamma">දහම් පාසල</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>

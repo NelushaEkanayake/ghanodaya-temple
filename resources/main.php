@@ -84,6 +84,10 @@ elseif($_GET['tag'] == 'computerlab'){
     require_once('resources/computer/index.php');
 
 }
+elseif($_GET['tag'] == 'dhamma'){
+    require_once('resources/dhamma school/index.php');
+
+}
 
 require_once('resources/footer/index.php');
 ?>

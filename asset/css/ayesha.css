@@ -394,7 +394,10 @@
 
 #developments .support-company-area .support-location-img img {
   width: 100%;
-  -webkit-transition: all .5s ease-out 0s;
+    box-shadow: 0 0 4px 2px #686464;
+  border: 6px solid #fff;
+  background: white;
+    -webkit-transition: all .5s ease-out 0s;
   transition: all .5s ease-out 0s;
 }
 
@@ -641,6 +644,7 @@
   margin-bottom: 30px;
   -webkit-box-shadow: 6px 6px 6px #e2e2e1;
           box-shadow: 6px 6px 6px #e2e2e1;
+  height: 660px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-img {
@@ -681,13 +685,13 @@
   background: #fff;
   padding: 90px 86px 36px 81px;
   margin-top: -5em;
-  height: 600px;
+  height: 390px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
   font-weight: 500;
-  height: 220px;
-  margin-bottom: 0;
+  color: #c4c4c4;
+  margin-bottom: 15px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -699,17 +703,11 @@
   line-height: 1.4;
   display: block;
   margin-bottom: 0;
+  height: 210px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a :focus {
   color: #092c3f;
-}
-
-#dev-home .home-blog-single .blog-img-cap .blog-cap p {
-  color: #737980;
-  font-size: 16px;
-  margin-bottom: 30px;
-  height: 142px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
@@ -750,7 +748,7 @@
 }
 
 /* ===================== THEME RESPONSIVE -DEVELOPMENTS ==========================*/
-@media only screen and (max-width: 991.98px) {
+@media only screen and (min-width: 992x) {
   #developments {
     background-color: aliceblue;
     padding: 0;
@@ -759,7 +757,6 @@
     width: 100%;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
-    float: left;
   }
   #developments .support-company-area .left-caption {
     text-align: right;
@@ -969,7 +966,7 @@
   #dev-home .section-tittle h2 {
     font-size: 50px;
     display: block;
-    color: #092c3f;
+    color: #ffffff;
     font-weight: 900;
     margin-bottom: 10px;
   }
@@ -988,7 +985,6 @@
     width: 100%;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
-    height: 310px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
     -webkit-transform: scale 1;
@@ -1014,11 +1010,9 @@
     background: #fff;
     padding: 90px 86px 36px 81px;
     margin-top: -5em;
-    height: 600px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 {
     font-weight: 500;
-    height: 220px;
     margin-bottom: 0;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -1033,12 +1027,6 @@
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap h3 a :focus {
     color: #092c3f;
-  }
-  #dev-home .home-blog-single .blog-img-cap .blog-cap p {
-    color: #737980;
-    font-size: 16px;
-    margin-bottom: 30px;
-    height: 142px;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-cap .post-btn {
     background: #0097b5;
