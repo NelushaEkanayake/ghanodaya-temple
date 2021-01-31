@@ -1,140 +1,72 @@
-<section id= youth class= "youth">
-  <div class= "container co"> 
-    <div class="row">
-        <div class=" col-lg-12 mx-auto" >
-          <div class="row" style="">
-              <div class="col-xl-6 mb-4 mb-xl-0 mt-5 col-lg-6 col-md-12 col-sm-12 mainimg" style="">
-                  <div class="imgdiv" style="">
-                    <img src="asset/img/youth/img1.jpg" class="mimgtag col-12" alt="" style="">
-                  </div>    
-              </div>
-              <div class="col-xl-6 mb-4 mb-xl-0 mt-5 col-lg-6 col-md-12 col-sm-12 para" style="" >
-                  <div class="align-items-center descrip" style=""  >
-                    <h3>ශ‍්‍රී ඥානෝදය තරුණ බෞද්ධ සංගමය</h3>
-                    <p style=" ">උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
+
+<section id="head" style="" class="headc">
+<div class="container" style="">
+
+    <div class="row " style="" >
+        <div class="col-12">
+            <div class="row headrow" style="background-color:#ffffff; padding:10px;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+              <div class="col-lg-6 "> 
+                    <div class="row h-100" >
+                  
+
+                  <div class="col-lg-12 my-auto" style="">
+                
+                    <div class="lotuscontainer" >
+              
+            <img src="asset/img/youth/lotus.png"  alt="" style="">
+                    <div class="centered">
+                        <p class="hname">ශ‍්‍රී ඥානෝදය තරුණ බෞද්ධ සංගමය</p>
+
+                    <p style=" " class="hpara">උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
                             තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
                             තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු</p>
+                    </div>
+
+                    </div>
                   </div>
-              </div>
-            </div>
-          </div>
 
-        </div>
-
-        
-
-        <h3 class="align-items-center" style="">අපගේ සමාජ සත්කාරක වැඩසටහන</h3>
-
-
-      
-        <div class="row mb-5" >
-        
-          <div class="col-xl-12 col-lg-12 col-md-12 mx-auto" style="">
+                  </div>
               
-            
-            <div class="row align-items-center">
+              </div>   
+
+              <div class="col-lg-6 col-12">
+                <div class="row imgrow ">
+
+                    <div class="col-lg-6 col-6 imgdiv" style="">
+                      <div style="" class="topimg">
+                      <img src="asset/img/youth/img1.jpg" class="img1 col-12" alt="" style=" ">
+                      </div>
+
+                      <div class="">
+                      <img src="asset/img/youth/img2.jpg" class="img2 col-12 " alt="" style="">
+                      </div>
+                    
+                    </div>
+
+                    <div class="col-lg-6 col-6 imgdiv" style="">
+                    <div class="topimg">
+                      <img src="asset/img/youth/img3.jpg" class="img3 col-12" alt="" style="">
+                      </div>
+
+                      <div class="">
+                      <img src="asset/img/youth/img4.jpg" class="img4 col-12" alt="" style="">
+                      </div>
+                    </div>
+                
+                </div>
               
-              <div class="col-xl-3 mb-4 mb-xl-0 mt-5 col-lg-4 col-md-6 col-sm-6">
-              <div class="cardcontainer">
-                <div class="card deshana">
-                  <div class="thefront">
-                  <img src="asset/img/youth/img1.jpg" class=" img-fluid" style="" >
-                  <div class="bottom-left">සඳහා වර්තමාන</div>
-                  </div>
-                    
-                    <div class="theback">
-                      <h5 style=""> ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන</h5>
-                      <p style="">
-                      <b>උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.</b>
-                      </p>
-
-                    </div>
-                    
-                </div>
-                </div>
-                
-
-                
-
-              </div>
-              <div class="col-xl-3   mb-4 mb-xl-0 mt-5 col-lg-4 col-md-6 col-sm-6 imgcard">
-              <div class="cardcontainer">
-                <div class="card deshana">
-                  <div class="thefront">
-                  <img src="asset/img/youth/img2.jpg" class=" img-fluid" style="" >
-                  <div class="bottom-left">සඳහා වර්තමාන</div>
-                  </div>
-                    
-                    <div class="theback">
-                      <h5 style=""> ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන</h5>
-                      <p style="">
-                      <b>උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.</b>
-                      </p>
-
-                    </div>
-                    
-                </div>
-                </div>
-                
-              </div>
-
-              <div class="col-xl-3   mb-4 mb-xl-0 mt-5 col-lg-4 col-md-6 col-sm-6">
-              <div class="cardcontainer">
-                <div class="card deshana">
-                  <div class="thefront">
-                  <img src="asset/img/youth/img3.jpg" class=" img-fluid" style="" >
-                  <div class="bottom-left">සඳහා වර්තමාන</div>
-                  </div>
-                    
-                    <div class="theback">
-                      <h5 style=""> ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන</h5>
-                      <p style="">
-                      <b>උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.</b>
-                      </p>
-
-                    </div>
-                    
-                </div>
-                </div>
-                
-              </div>
-
-              <div class="col-xl-3   mb-4 mb-xl-0 mt-5 col-lg-4 col-md-6 col-sm-6">
-              <div class="cardcontainer">
-                <div class="card deshana">
-                  <div class="thefront">
-                  <img src="asset/img/youth/img4.jpg" class=" img-fluid" style="" >
-                  <div class="bottom-left">සඳහා වර්තමාන</div>
-                  </div>
-                    
-                    <div class="theback">
-                      <h5 style=""> ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන</h5>
-                      <p style="">
-                      <b>උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.2020 උසස් පෙළ විභාගය සහ ශිෂ්‍යත්ව විභාගය සඳහා වර්තමාන COVID19 කිරීටක වයිරස
-                            තත්ත්වය හේතුවෙන් පුද්ගලික තොරතුරු ලබා දෙන ලෙස ඉල්ලා සිටියි.</b>
-                      </p>
-
-                    </div>
-                    
-                </div>
-                </div>
-                
-              </div>
+              
+              </div>         
             </div>
-          </div>
+        
         </div>
-      
+    
+    </div>
 
-
-
-
-</div>
-
+    </div>
 </section>
+
+
+
+
+

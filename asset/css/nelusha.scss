@@ -1,120 +1,144 @@
-#youth{
-    .cardcontainer{
-       position: relative; 
-       width:320px;
-       height:450px;
-       padding: 0px;
-       
 
-       .card:hover{
-        transform: rotateY(180deg);
 
-    }
+#head{
 
-       .card{
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            transform-style: preserve-3d;
-            transition: all 0.5s ease;
-            
-
-            
-
-            
-
-            .thefront{
-                position: absolute;
-                width: 100%;
-                height: 100%;
-                backface-visibility: hidden;
-                background: #ffc728;
-                color: #333;
-
-                img{
-
-                    height:100%;
-                    width:100%;
-                    transition: 0.7s;
-                }
-
-                .bottom-left {
-                    position: absolute;
-                    bottom: 8px;
-                    left: 16px;
-                    color: #ffffff;
-                    font-size: x-large;
-                  }
-            }
-
-            .theback{
-
-                h5{
-                    text-align:center;
-                    padding-top:40px;
-                }
-
-                p{
-                    padding:20px;
-                    text-align:center;
-                }
-
-                position: absolute;
-                width: 100%;
-                height: 100%;
-                backface-visibility: hidden;
-                background: #fafafa;
-                color: #333;
-                transform: rotateY(180deg);
-
-            }
-
-            
-       }
-    }
-    .co{
-        h3{
-            text-align:center;
-             margin-top:80px ;
-        }
-
-    }
-
-    .para{
-        padding-left:80px;
-    }
-    .imgdiv{
-        img{
-            object-fit: cover;
-            
-        }
-        img:hover{
-            
-            z-index: 1;
-            transform: scale(1.25);
-            box-shadow: 0 25px 40px rgba(0,0,0,.5);
-        }
-    }
     
-    .descrip{
+    background: linear-gradient(to left,#d6a4a4,#dae2f8);
+    padding: 40px;
+    
+    
+        
+    
+    .lotuscontainer{
+        
+        position: relative;
+        text-align: center;
+        color: black;
+        margin-top: 10px;
+    
+    
+        
 
-        p{
-            font-size: 20px; 
-             font-weight: bold; 
-        }
-    }
-
-    .deshana{
         img{
-            height: 230px;
-            object-fit: cover; 
-            padding: 0px;
+
+            width:50%;
+            height:50%;
+            opacity:0.2;
+            width:100%;
+            text-align: center;
         }
+
+
+        .centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: fit-content;
+
+            .hname{
+                font-size: 30px;
+                font-weight: bold;
+
+            }
+
+            .hpara{
+
+                margin:0px;
+                padding:0px;
+            }
+        
+          
+
+        
+        
+
+            p{
+            text-align:center;
+
+
+            }
+
+    
+        }
+    }
+
+    .imgrow{
+
+        
+
+        .imgdiv{
+            padding-right:1px;
+        
+            
+
+            .topimg{
+
+                padding-bottom:10px;
+        
+            }
+
+            
+
+            img{
+                box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+
+            img:hover{
+                opacity: 0.3;
+            }
+        
+
+            .img1{
+            height:250px;
+            object-fit:cover;
+            
+            
+            
+            
+
+
+             }
+
+
+            .img2{
+            height:404px; 
+            object-fit:cover;
+        
+            
+
+            }
+
+            .img3{
+            height:404px; 
+            object-fit:cover;
+            
+    
+             
+
+
+            }
+
+            .img4{
+            height:250px; 
+            object-fit:cover;
+             
+
+
+            }
+
+    }
+
+    
     }
 
 }
 
-.youth{
-    background-color: #F2F3F4;
-}
+
+
+
+
+
+
+
 
