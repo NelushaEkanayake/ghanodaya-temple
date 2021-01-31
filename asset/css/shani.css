@@ -13,7 +13,8 @@
 }
 
 #event .card {
-  box-shadow: 0px 0px 30px 9px #e7e4e4;
+  -webkit-box-shadow: 0px 0px 30px 9px #e7e4e4;
+          box-shadow: 0px 0px 30px 9px #e7e4e4;
 }
 
 #event .card-text {
@@ -26,7 +27,8 @@
   border-width: 1px;
   background-color: #ffffff;
   border: solid #cccccc;
-  box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
   height: 100px;
   width: 100px;
   line-height: 100px;
@@ -44,7 +46,8 @@
 
 #contact .card .card-body {
   height: 25em;
-  box-shadow: 0px -1px 20px 5px #cccccc40;
+  -webkit-box-shadow: 0px -1px 20px 5px #cccccc40;
+          box-shadow: 0px -1px 20px 5px #cccccc40;
 }
 
 #contact .card .card-body p {
@@ -91,6 +94,18 @@
 #contact .form-control {
   background-color: #bab5b580;
   padding-bottom: 15px;
+}
+
+#contact .form-control::-webkit-input-placeholder {
+  color: #000;
+}
+
+#contact .form-control:-ms-input-placeholder {
+  color: #000;
+}
+
+#contact .form-control::-ms-input-placeholder {
+  color: #000;
 }
 
 #contact .form-control::placeholder {

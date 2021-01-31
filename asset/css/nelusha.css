@@ -1,0 +1,87 @@
+#head {
+  background: -webkit-gradient(linear, right top, left top, from(#d6a4a4), to(#dae2f8));
+  background: linear-gradient(to left, #d6a4a4, #dae2f8);
+  padding: 40px;
+}
+
+#head .lotuscontainer {
+  position: relative;
+  text-align: center;
+  color: black;
+  margin-top: 10px;
+}
+
+#head .lotuscontainer img {
+  width: 50%;
+  height: 50%;
+  opacity: 0.2;
+  width: 100%;
+  text-align: center;
+}
+
+#head .lotuscontainer .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+#head .lotuscontainer .centered .hname {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#head .lotuscontainer .centered .hpara {
+  margin: 0px;
+  padding: 0px;
+}
+
+#head .lotuscontainer .centered p {
+  text-align: center;
+}
+
+#head .imgrow .imgdiv {
+  padding-right: 1px;
+}
+
+#head .imgrow .imgdiv .topimg {
+  padding-bottom: 10px;
+}
+
+#head .imgrow .imgdiv img {
+  -webkit-box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 9px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#head .imgrow .imgdiv img:hover {
+  opacity: 0.3;
+}
+
+#head .imgrow .imgdiv .img1 {
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img2 {
+  height: 404px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img3 {
+  height: 404px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#head .imgrow .imgdiv .img4 {
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=nelusha.css.map */
