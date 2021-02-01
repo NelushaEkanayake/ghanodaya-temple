@@ -112,34 +112,23 @@
   border: 7px solid #ffffff;
 }
 
-#garbage .card {
-  padding: 30px 120px 30px 30px;
-  border: none;
-  position: initial;
+#garbage .title {
+  font-size: 1.8em;
 }
 
-#garbage .card .card-text {
+#garbage .text {
   margin: 20px 0 20px;
   color: #6f6b6b;
+  font-size: 1.3em;
 }
 
-#garbage .card .button5 {
-  color: #414040;
-  border: 2px solid #555555;
-  padding: 15px;
+#garbage .row h2 {
+  padding: 2em;
+  text-align: center;
+  font-size: 2em;
 }
 
-#garbage .garbage {
-  padding: 30px;
-  background-color: #adcce9;
-  width: 523px;
-  height: 493px;
-}
-
-#garbage .garbage .img {
-  width: 523px;
-  height: 357px;
-  margin: 45px auto 0 -138px;
-  border: 7px solid #ffffff;
+#garbage .row .card {
+  border: none;
 }
 /*# sourceMappingURL=sanduni.css.map */

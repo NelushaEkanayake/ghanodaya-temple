@@ -133,36 +133,25 @@
        
        
        
-       #garbage{
-        .card{
-           padding: 30px 120px 30px 30px;
-           border: none;
-           position: initial;
-
-
-               .card-text{
-                   margin: 20px 0 20px;
-                   color: #6f6b6b;
-               }
-           .button5{
-               color: rgb(65, 64, 64);
-               border: 2px solid #555555;
-               padding: 15px;
-           }
-
+           #garbage{
+            .title{
+                font-size: 1.8em;
+            }
+            .text{
+                margin: 20px 0 20px;
+                color: #6f6b6b;
+                font-size: 1.3em;
+                }
+                              
+               .row{
+                   h2{
+                    padding: 2em;
+                    text-align: center;
+                    font-size: 2em;
+                     }
+                        .card{
+                            border: none;
+                    }
+        
+            }
         }
-               .garbage{
-                   padding: 30px;
-                   background-color: #adcce9;
-                   width: 523px;
-                   height: 493px;
-                   
-                   .img{
-                       width: 523px;
-                       height: 357px;
-                       margin: 45px auto 0 -138px;
-                       border: 7px solid #ffffff;
-                   }
-               }
-              
-           }  
