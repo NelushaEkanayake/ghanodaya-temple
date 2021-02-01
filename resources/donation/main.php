@@ -61,7 +61,7 @@
 <section id="spon">
     <div class="container">
         <div class="row ">
-            <p class="name"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
+            <p class="name p-5"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
 
             <div class="col-md-3">
                 <img src="asset/img/donation/5.png" class="logo m-2">
