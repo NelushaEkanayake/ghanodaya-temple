@@ -7,16 +7,10 @@
       padding-bottom: 15px;
   }
   .post-item-date{
-      position: absolute;
-      background: #bab6b7;
-      color: #fff;
-      top: 17px;
-      left: 15px;
-      text-align: center;
-      padding: 4px 8px 8px;
-      border-radius: 100%;
-      width: 100px;
-      height: 100px;
+      .fas{
+        font-size: 2em;
+        padding-left: 10px
+      }
 
       .day{
           font-size: 40px;
