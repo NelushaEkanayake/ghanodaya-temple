@@ -19,12 +19,12 @@
                             </ul>
                         </div>
                         <div class="blog-cap">
-                            <h3><a href="blog_details.html">චෛතයයේ සංවර්ධන කටයුතු</a></h3> 
+                            <h3><a href="blog_details.html">චෛතයයේ සංවර්ධන කටයුතු</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
-                            </div>  
-                        </div> 
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -40,8 +40,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">චෛතයයේ සංවර්ධන කටයුතු</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -58,10 +58,10 @@
                         </div>
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">කසළ කළමනාකරණය හා පතිචකීකරණ පද්ධතිය</a></h3>
-                           
+
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -79,8 +79,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">කසළ කළමනාකරණය හා පතිචකීකරණ පද්ධතිය</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -97,10 +97,10 @@
                         </div>
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">පරිගණක අධන ඉදිකිරීම්</a></h3>
-                           
+
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -118,8 +118,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">පරිගණක අධන ඉදිකිරීම්</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -137,8 +137,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">ආරාම ඉදිකිරීම්</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -156,8 +156,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">චෛතයයේ සංවර්ධන කටයුතු</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -175,8 +175,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">කසළ කළමනාකරණය හා පතිචකීකරණ පද්ධතිය</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
@@ -194,8 +194,8 @@
                         <div class="blog-cap">
                             <h3><a href="blog_details.html">කසළ කළමනාකරණය හා පතිචකීකරණ පද්ධතිය</a></h3>
                             <div class="text-center">
-                            <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
-                        
+                                <a href="?tag=developments" class="btn post-btn">තොරතුරූ</a>
+
                             </div>
                         </div>
                     </div>
