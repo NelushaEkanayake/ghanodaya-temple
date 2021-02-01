@@ -1,7 +1,7 @@
 <section id="sponcers">
     <div class="container">
         <div class="row masssege">
-      
+
             <p class="title">පින් කරනු කැමති අයට පින්බර අවස්ථාවක්</p>
             <hr>
             <i class="fas fa-dharmachakra"></i>
@@ -35,54 +35,50 @@
                 <img src="asset/img/donation/4.jpg" class="d-img" alt="...">
             </div>
         </div>
-     </div>
+    </div>
 </section>
 
 
 
-<section id="donations">
+<section id="donationpage">
 
     <div class="col-md-12 background p-5">
 
         <p class="donate pt-3"> ඥානෝදය විහාරස්ථානයේ ඉදිකිරීම් සදහා පින්වත් ඔබගේ ආධාර පහත ගිණුමට බැර කළ හැකිය</p>
 
         <div class="col-md-12 pt-3 account">
-            <p> ඥානෝදය සංවර්ධන අරමුදල</p>
-            <p>ගිණුම් අංකය</p>
+            <p class="bank"> ඥානෝදය සංවර්ධන අරමුදල</p>
+            <p class="bank">ගිණුම් අංකය</p>
             <p class="number">
 
                 <span class="color">1187 6100 4276</span>
             </p>
-            <p>සම්පත් බැංකුව, හෙට්ටිපොළ ශාඛාව.</p>
+            <p class="bank">සම්පත් බැංකුව, හෙට්ටිපොළ ශාඛාව.</p>
         </div>
     </div>
-
-  
-    <div class="container spon">
-    <div class="row ">
-<p class="name p-5"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
-
-<div class="col-md-3">
-<img src="asset/img/donation/5.png" class="logo m-2">
-</div>
-
-<div class="col-md-3">
-<img src="asset/img/donation/5.png " class="logo  m-2">
-</div>
-
-<div class="col-md-3">
-<img src="asset/img/donation/5.png " class="logo m-2">
-</div>
-
-<div class="col-md-3">
-<img src="asset/img/donation/5.png " class="logo m-2">
-</div>
-</div>
-
-</div>
-
-
-
 </section>
 
+<section id="spon">
+    <div class="container">
+        <div class="row ">
+            <p class="name"> අප හා එක් වු ඔබ සැමට ස්තුතියි </p>
 
+            <div class="col-md-3">
+                <img src="asset/img/donation/5.png" class="logo m-2">
+            </div>
+
+            <div class="col-md-3">
+                <img src="asset/img/donation/5.png " class="logo  m-2">
+            </div>
+
+            <div class="col-md-3">
+                <img src="asset/img/donation/5.png " class="logo m-2">
+            </div>
+
+            <div class="col-md-3">
+                <img src="asset/img/donation/5.png " class="logo m-2">
+            </div>
+        </div>
+
+    </div>
+</section>

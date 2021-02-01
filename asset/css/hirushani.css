@@ -68,46 +68,43 @@
 }
 
 /*=========donation page==========*/
-#donations {
+#donationpage {
+  margin-bottom: 3em;
   text-align: center;
-  margin-top: 3rem;
-  padding-bottom: 3rem;
+  background-image: url(../img/donation/meditation-1018837_640.jpg);
+  background-attachment: fixed;
+  padding: 0;
+  background-size: cover;
+  width: 100%;
 }
 
-#donations .background {
-  background-color: rgba(145, 137, 127, 0.199);
+#donationpage .background {
+  background-color: rgba(7, 7, 7, 0.432);
 }
 
-#donations .donate {
+#donationpage .donate {
   text-align: center;
   font-size: 25px;
   font-weight: bold;
+  color: white;
 }
 
-#donations .donate::after {
-  border-bottom: 5px solid rgba(14, 6, 85, 0.603);
-  display: block;
-  margin-left: 20em;
-  content: " ";
-  width: 25%;
-  padding-top: 0.5em;
-  color: linear-gradient(180deg, red, yellow);
-  border-radius: 10%;
-}
-
-#donations p {
+#donationpage .bank {
   font-size: 25px;
+  color: white;
 }
 
-#donations .number {
+#donationpage .number {
   font-size: 32px;
 }
 
-#donations .number .color {
+#donationpage .number .color {
   background-color: #ffeb3b;
 }
 
-#donations .spon {
-  margin-top: 5rem;
+#spon .name {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
 }
 /*# sourceMappingURL=hirushani.css.map */

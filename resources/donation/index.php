@@ -22,15 +22,15 @@
         <div class="row">
 
             <div class="col-md-4 p-2">
-                <img src="asset/img/donation/20180319_103340.jpg" class="d-img" alt="...">
+                <img src="asset/img/donation/2.jpg" class="d-img" alt="...">
             </div>
 
             <div class="col-md-4 p-2">
-                <img src="asset/img/donation/IMG_20170928_172221.jpg" class="d-img" alt="...">
+                <img src="asset/img/donation/3.jpg" class="d-img" alt="...">
             </div>
 
             <div class="col-md-4 p-2">
-                <img src="asset/img/donation/20200107_074916.jpg" class="d-img" alt="...">
+                <img src="asset/img/donation/4.jpg" class="d-img" alt="...">
             </div>
         </div>
 
