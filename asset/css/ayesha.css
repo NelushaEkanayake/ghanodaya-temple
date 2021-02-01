@@ -84,7 +84,6 @@
   text-decoration: none;
   width: 50px;
   z-index: 9999;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -238,7 +237,6 @@
   padding: 5px 10px;
   margin-left: 5px;
   margin-bottom: 10px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -254,7 +252,6 @@
   display: block;
   padding: 8px 5px;
   font-size: 13px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -279,7 +276,6 @@
   display: block;
   padding: 3px 5px;
   font-size: 14px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -394,8 +390,7 @@
 
 #developments .support-company-area .support-location-img img {
   width: 100%;
-  -webkit-box-shadow: 0 0 4px 2px #686464;
-          box-shadow: 0 0 4px 2px #686464;
+  box-shadow: 0 0 4px 2px #686464;
   border: 6px solid #fff;
   background: white;
 }
@@ -426,8 +421,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #developments .support-company-area .left-caption .section-tittle2 span::before {
@@ -477,7 +471,6 @@
   margin-bottom: 0;
   margin: 10px;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -488,8 +481,7 @@
 }
 
 #developments .support-company-area .support-caption .post-btn1:hover {
-  -webkit-transform: scaleX(1);
-          transform: scaleX(1);
+  transform: scaleX(1);
   color: #000 !important;
   background-color: #ffffff;
 }
@@ -519,8 +511,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #developments .support-company-area .right-caption .section-tittle2 span::before {
@@ -568,7 +559,6 @@
   margin-bottom: 0;
   margin: 10px;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -581,8 +571,7 @@
   transform: scaleX(1.1);
   color: #000 !important;
   background-color: #ffffff;
-  -webkit-transition-delay: 0.4s;
-          transition-delay: 0.4s;
+  transition-delay: 0.4s;
   -webkit-transform: scaleX(1.1);
   -moz-transform: scaleX(1.1);
   -ms-transform: scaleX(1.1);
@@ -625,8 +614,7 @@
   top: 0;
   left: 0;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 #dev-home .section-tittle h2 {
@@ -638,11 +626,9 @@
 }
 
 #dev-home .home-blog-single {
-  -webkit-transition: all .4s ease-out 0s;
   transition: all .4s ease-out 0s;
   margin-bottom: 30px;
-  -webkit-box-shadow: 6px 6px 6px #e2e2e1;
-          box-shadow: 6px 6px 6px #e2e2e1;
+  box-shadow: 6px 6px 6px #e2e2e1;
   height: 660px;
 }
 
@@ -653,15 +639,12 @@
 
 #dev-home .home-blog-single .blog-img-cap .blog-img img {
   width: 100%;
-  -webkit-transition: all .5s ease-out 0s;
   transition: all .5s ease-out 0s;
   height: 310px;
 }
 
 #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
-  -webkit-transform: scale 1;
-          transform: scale 1;
-  -webkit-transition: all .5s ease-out 0s;
+  transform: scale 1;
   transition: all .5s ease-out 0s;
 }
 
@@ -726,7 +709,6 @@
   line-height: 0;
   padding-bottom: 2e;
   cursor: pointer;
-  -webkit-transition: color .4s linear;
   transition: color .4s linear;
   position: relative;
   z-index: 1;
@@ -738,8 +720,7 @@
   transform: scaleX(1.1);
   color: #000 !important;
   background-color: #ff7525;
-  -webkit-transition-delay: 0.4s;
-          transition-delay: 0.4s;
+  transition-delay: 0.4s;
   -webkit-transform: scaleX(1.1);
   -moz-transform: scaleX(1.1);
   -ms-transform: scaleX(1.1);
@@ -754,7 +735,6 @@
   }
   #developments .support-company-area .support-location-img img {
     width: 100%;
-    -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
   }
   #developments .support-company-area .left-caption {
@@ -781,8 +761,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #developments .support-company-area .left-caption .section-tittle2 span::before {
     background: #2116c1;
@@ -827,7 +806,6 @@
     margin-bottom: 0;
     margin: 10px;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -837,8 +815,7 @@
     float: right;
   }
   #developments .support-company-area .support-caption .post-btn1:hover {
-    -webkit-transform: scaleX(1);
-            transform: scaleX(1);
+    transform: scaleX(1);
     color: #000 !important;
     background-color: #ffffff;
   }
@@ -865,8 +842,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #developments .support-company-area .right-caption .section-tittle2 span::before {
     background: #f0a909;
@@ -908,7 +884,6 @@
     margin-bottom: 0;
     margin: 10px;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -920,8 +895,7 @@
     transform: scaleX(1.1);
     color: #000 !important;
     background-color: #ffffff;
-    -webkit-transition-delay: 0.4s;
-            transition-delay: 0.4s;
+    transition-delay: 0.4s;
     -webkit-transform: scaleX(1.1);
     -moz-transform: scaleX(1.1);
     -ms-transform: scaleX(1.1);
@@ -959,8 +933,7 @@
     top: 0;
     left: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
   }
   #dev-home .section-tittle h2 {
     font-size: 50px;
@@ -970,11 +943,9 @@
     margin-bottom: 10px;
   }
   #dev-home .home-blog-single {
-    -webkit-transition: all .4s ease-out 0s;
     transition: all .4s ease-out 0s;
     margin-bottom: 30px;
-    -webkit-box-shadow: 6px 6px 6px #e2e2e1;
-            box-shadow: 6px 6px 6px #e2e2e1;
+    box-shadow: 6px 6px 6px #e2e2e1;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img {
     overflow: hidden;
@@ -982,13 +953,10 @@
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img img {
     width: 100%;
-    -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img :hover {
-    -webkit-transform: scale 1;
-            transform: scale 1;
-    -webkit-transition: all .5s ease-out 0s;
+    transform: scale 1;
     transition: all .5s ease-out 0s;
   }
   #dev-home .home-blog-single .blog-img-cap .blog-img ul li {
@@ -1044,7 +1012,6 @@
     line-height: 0;
     padding-bottom: 2e;
     cursor: pointer;
-    -webkit-transition: color .4s linear;
     transition: color .4s linear;
     position: relative;
     z-index: 1;
@@ -1055,8 +1022,7 @@
     transform: scaleX(1.1);
     color: #000 !important;
     background-color: #ff7525;
-    -webkit-transition-delay: 0.4s;
-            transition-delay: 0.4s;
+    transition-delay: 0.4s;
     -webkit-transform: scaleX(1.1);
     -moz-transform: scaleX(1.1);
     -ms-transform: scaleX(1.1);
