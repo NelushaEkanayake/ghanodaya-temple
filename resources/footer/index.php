@@ -44,7 +44,6 @@
                     </div>
                 </section>
             </div>
-<<<<<<< Updated upstream
             <a class="scrollToTop" href="#"><i class="fas fa-angle-up"></i></a>
     </footer>
 </section>
@@ -70,48 +69,47 @@
         </ul>
     </div>
 </section>
-=======
-            <div class="col-12 col-md-3">
-                <section class="widget">
+<div class="col-12 col-md-3">
+    <section class="widget">
 
-                    <div class="single_leftbar wow fadeInDown">
-                        <div class="widget-heading">
-                            <h4>සබැදිය</h4>
+        <div class="single_leftbar wow fadeInDown">
+            <div class="widget-heading">
+                <h4>සබැදිය</h4>
 
-                        </div>
-                        <div class="singleleft_inner">
-                            <ul class="link_nav">
-                                <li><a href="#">Temple Overview</a></li>
-                                <li><a href="#">දඔුල්ලේ සුමන්ගල හිමි</a></li>
-                                <li><a href="#">ඡායාරූප</a></li>
-                                <li><a href="#">twitter</a></li>
-                                <li><a href="#">Facebook </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
             </div>
-            <div class="col-12 col-md-3">
-                <section class="widget">
-
-                    <div class="single_leftbar wow fadeInDown">
-                        <div class="widget-heading">
-                            <h4>සබැදිය</h4>
-
-                        </div>
-                        <div class="singleleft_inner">
-                            <ul class="link_nav">
-                                <li><a href="#">Temple Overview</a></li>
-                                <li><a href="#">දඔුල්ලේ සුමන්ගල හිමි</a></li>
-                                <li><a href="#">ඡායාරූප</a></li>
-                                <li><a href="#">twitter</a></li>
-                                <li><a href="#">Facebook </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+            <div class="singleleft_inner">
+                <ul class="link_nav">
+                    <li><a href="#">Temple Overview</a></li>
+                    <li><a href="#">දඔුල්ලේ සුමන්ගල හිමි</a></li>
+                    <li><a href="#">ඡායාරූප</a></li>
+                    <li><a href="#">twitter</a></li>
+                    <li><a href="#">Facebook </a></li>
+                </ul>
             </div>
         </div>
+    </section>
+</div>
+<div class="col-12 col-md-3">
+    <section class="widget">
+
+        <div class="single_leftbar wow fadeInDown">
+            <div class="widget-heading">
+                <h4>සබැදිය</h4>
+
+            </div>
+            <div class="singleleft_inner">
+                <ul class="link_nav">
+                    <li><a href="#">Temple Overview</a></li>
+                    <li><a href="#">දඔුල්ලේ සුමන්ගල හිමි</a></li>
+                    <li><a href="#">ඡායාරූප</a></li>
+                    <li><a href="#">twitter</a></li>
+                    <li><a href="#">Facebook </a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</div>
+</div>
 </section>
 
 <section id="foot2" class="col-md-12 row m-0">
@@ -132,4 +130,3 @@
 </section>
 <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </footer>
->>>>>>> Stashed changes
