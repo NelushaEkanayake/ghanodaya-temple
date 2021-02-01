@@ -23,6 +23,8 @@
     <link href="asset/css/nelusha.css?v=1" rel="stylesheet">
     <link href="asset/css/sanduni.css?v=1" rel="stylesheet">
     <link href="asset/css/com.css?v=1" rel="stylesheet">
+    <link href="asset/css/service.css?v=1" rel="stylesheet">
+
 
  <!--    <link href="asset/css/com.css?v=1" rel="stylesheet"> -->
 

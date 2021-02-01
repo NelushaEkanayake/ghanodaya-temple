@@ -3,6 +3,7 @@
     <div class="container">
 
         <div class="row">
+<<<<<<< Updated upstream
             <div class="col-sm-6">
                 <div class="card">
                     <div class="card-body-lab">
@@ -31,6 +32,11 @@
                         </p>
                         <button class="button button5">වැඩිදුර තොරතුරු</button>
                     </div>
+=======
+            <div class="col-md-6">
+                <div class="garbage">
+                    <img class="img" src="asset/img/garbage/2.jpg" alt="" width="100%">
+>>>>>>> Stashed changes
                 </div>
             </div>
 
