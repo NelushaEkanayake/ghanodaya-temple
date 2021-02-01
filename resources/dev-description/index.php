@@ -1,4 +1,4 @@
-    <section id="developments">
+<section id="developments">
         <div class="support-company-area  section-bg" data-background="">
             <div class="container">
                 <div class="row align-items-center m-0">

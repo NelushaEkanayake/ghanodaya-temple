@@ -4,11 +4,16 @@
   padding: 40px;
 }
 
+<<<<<<< Updated upstream
 #head .lotuscontainer {
   position: relative;
   text-align: center;
   color: black;
   margin-top: 10px;
+=======
+#youth .cardcontainer .card:hover {
+  transform: rotateY(180deg);
+>>>>>>> Stashed changes
 }
 
 #head .lotuscontainer img {
@@ -16,11 +21,18 @@
   height: 50%;
   opacity: 0.2;
   width: 100%;
+<<<<<<< Updated upstream
   text-align: center;
+=======
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+>>>>>>> Stashed changes
 }
 
 #head .lotuscontainer .centered {
   position: absolute;
+<<<<<<< Updated upstream
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -33,6 +45,19 @@
 #head .lotuscontainer .centered .hname {
   font-size: 30px;
   font-weight: bold;
+=======
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #ffc728;
+  color: #333;
+}
+
+#youth .cardcontainer .card .thefront img {
+  height: 100%;
+  width: 100%;
+  transition: 0.7s;
+>>>>>>> Stashed changes
 }
 
 #head .lotuscontainer .centered .hpara {
@@ -40,8 +65,19 @@
   padding: 0px;
 }
 
+<<<<<<< Updated upstream
 #head .lotuscontainer .centered p {
   text-align: center;
+=======
+#youth .cardcontainer .card .theback {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #fafafa;
+  color: #333;
+  transform: rotateY(180deg);
+>>>>>>> Stashed changes
 }
 
 #head .imgrow .imgdiv {
@@ -61,6 +97,7 @@
   opacity: 0.3;
 }
 
+<<<<<<< Updated upstream
 #head .imgrow .imgdiv .img1 {
   height: 330px;
   -o-object-fit: cover;
@@ -77,6 +114,27 @@
   height: 404px;
   -o-object-fit: cover;
      object-fit: cover;
+=======
+#youth .imgdiv img {
+  object-fit: cover;
+}
+
+#youth .imgdiv img:hover {
+  z-index: 1;
+  transform: scale(1.25);
+  box-shadow: 0 25px 40px rgba(0, 0, 0, 0.5);
+}
+
+#youth .descrip p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#youth .deshana img {
+  height: 230px;
+  object-fit: cover;
+  padding: 0px;
+>>>>>>> Stashed changes
 }
 
 #head .imgrow .imgdiv .img4 {
