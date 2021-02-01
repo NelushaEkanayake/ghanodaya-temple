@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    src: url('abhaya-libre-v6-sinhala_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('abhaya-libre-v6-sinhala_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('abhaya-libre-v6-sinhala_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('abhaya-libre-v6-sinhala_latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('abhaya-libre-v6-sinhala_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('abhaya-libre-v6-sinhala_latin-regular.svg#AbhayaLibre') format('svg'); /* Legacy iOS */
+  }
