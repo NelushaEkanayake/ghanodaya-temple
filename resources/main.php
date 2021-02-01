@@ -11,8 +11,14 @@
     <link href="bootstrap-5.0.0-beta1-dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="fontawesome-free-5.15.1-web/css/all.min.css" rel="stylesheet">
     <link href="asset/font/flaticon/flaticon.css" rel="stylesheet">
+    <link href="asset/font/abhaya/font.css" rel="stylesheet">
 
-    <!--<link href="asset/css/styles.css?v=1" rel="stylesheet"> -->
+    <style>
+    body {
+        font-family: 'Abhaya Libre' !important;
+    }
+    </style>
+    <!--<link href="asset/css/styles.css?v=1" rel="stylesheet">-->
     <link href="asset/css/ayesha.css?v=1" rel="stylesheet">
     <link href="asset/css/hirushani.css?v=1" rel="stylesheet">
     <link href="asset/css/isuru.css?v=1" rel="stylesheet">
@@ -23,102 +29,102 @@
     <link href="asset/css/nelusha.css?v=1" rel="stylesheet">
     <link href="asset/css/sanduni.css?v=1" rel="stylesheet">
     <link href="asset/css/com.css?v=1" rel="stylesheet">
-
- <!--    <link href="asset/css/com.css?v=1" rel="stylesheet"> -->
-
     <link rel="stylesheet" href="Magnific-Popup-master/dist/magnific-popup.css">
-
 </head>
 
-<body>
-
-    <?php
-require_once('resources/header/index.php');
+<body><?php require_once('resources/header/index.php');
 
 
-if(!isset($_GET['tag']) || $_GET['tag'] =='home'){
-require_once('resources/slider/index.php');
-require_once('resources/gallery/index.php');
-require_once('resources/service/index.php');
-require_once('resources/event/index.php');
-require_once('resources/news/index.php');
-require_once('resources/videos/index.php');
-require_once('resources/donation/index.php');
+    if( !isset($_GET['tag']) || $_GET['tag']=='home') {
+        require_once('resources/slider/index.php');
+        require_once('resources/gallery/index.php');
+        require_once('resources/service/index.php');
+        require_once('resources/event/index.php');
+        require_once('resources/news/index.php');
+        require_once('resources/videos/index.php');
+        require_once('resources/donation/index.php');
 
-}
-elseif($_GET['tag'] == 'dev-home'){
-require_once('resources/dev-home/index.php');
-}
-elseif($_GET['tag'] == 'developments'){
-require_once('resources/dev-description/index.php');
-}
-elseif($_GET['tag'] == 'history'){
-require_once('resources/history/index.php');
-}
+    }
 
-elseif($_GET['tag'] == 'youth'){
-require_once('resources/youth/index.php');
-}
-elseif($_GET['tag'] == 'create'){
-require_once('resources/about/index.php');
-}
-elseif($_GET['tag'] == 'preschool'){
-    require_once('resources/preschool/index.php');
-}
+    elseif($_GET['tag']=='dev-home') {
+        require_once('resources/dev-home/index.php');
+    }
 
-elseif($_GET['tag'] == 'gallery'){
-    require_once('resources/gallery/main.php');
-}
-elseif($_GET['tag'] == 'contact'){
-    require_once('resources/contac/contac.php');
-}
-elseif($_GET['tag'] == 'sponcers'){
-    require_once('resources/donation/main.php');
+    elseif($_GET['tag']=='developments') {
+        require_once('resources/dev-description/index.php');
+    }
 
-}
-elseif($_GET['tag'] == 'garbage'){
-    require_once('resources/garbage/index.php');
+    elseif($_GET['tag']=='history') {
+        require_once('resources/history/index.php');
+    }
 
-}
-elseif($_GET['tag'] == 'computerlab'){
-    require_once('resources/computer/index.php');
+    elseif($_GET['tag']=='youth') {
+        require_once('resources/youth/index.php');
+    }
 
-}
-elseif($_GET['tag'] == 'dhamma'){
-    require_once('resources/dhamma school/index.php');
+    elseif($_GET['tag']=='create') {
+        require_once('resources/about/index.php');
+    }
 
-}
+    elseif($_GET['tag']=='preschool') {
+        require_once('resources/preschool/index.php');
+    }
 
-require_once('resources/footer/index.php');
-?>
+    elseif($_GET['tag']=='gallery') {
+        require_once('resources/gallery/main.php');
+    }
 
+    elseif($_GET['tag']=='contact') {
+        require_once('resources/contac/contac.php');
+    }
 
+    elseif($_GET['tag']=='sponcers') {
+        require_once('resources/donation/main.php');
 
-    <script src="asset/js/jquery-3.5.1.min.js"></script>
+    }
+
+    elseif($_GET['tag']=='garbage') {
+        require_once('resources/garbage/index.php');
+
+    }
+
+    elseif($_GET['tag']=='computerlab') {
+        require_once('resources/computer/index.php');
+
+    }
+
+    elseif($_GET['tag']=='dhamma') {
+        require_once('resources/dhamma school/index.php');
+
+    }
+
+    require_once('resources/footer/index.php');
+
+    ?><script src="asset/js/jquery-3.5.1.min.js"></script>
     <script src="bootstrap-5.0.0-beta1-dist/js/bootstrap.min.js"></script>
     <script src="asset/js/scroll.js"></script>
     <script src="Magnific-Popup-master/dist/jquery.magnific-popup.js"></script>
     <script>
     $('.test-popup-link').magnificPopup({
-        type: 'image',
-        mainClass: 'mfp-with-zoom',
+            type: 'image',
+            mainClass: 'mfp-with-zoom',
 
-        zoom: {
-            enabled: true,
+            zoom: {
+                enabled: true,
 
-            duration: 300,
-            easing: 'ease-in-out',
+                duration: 300,
+                easing: 'ease-in-out',
 
-            opener: function(openerElement) {
+                opener: function(openerElement) {
 
-                return openerElement.is('img') ? openerElement : openerElement.find('img');
+                    return openerElement.is('img') ? openerElement : openerElement.find('img');
+                }
             }
+
         }
 
-    });
+    );
     </script>
-
-
 </body>
 
 </html>
