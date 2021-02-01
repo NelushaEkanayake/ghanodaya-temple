@@ -14,7 +14,7 @@
     <link href="asset/font/abhaya/font.css" rel="stylesheet">
 
     <style>
-    body {
+     {
         font-family: 'Abhaya Libre' !important;
     }
     </style>
