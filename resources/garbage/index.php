@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="garbage">
-                    <img class="img" src="asset/img/2.jpg" alt="" width="100%">
+                    <img class="img" src="asset/img/garbage/2.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="col-md-6 align-self-center ">
@@ -20,13 +20,13 @@
         <div class="row">
             <div class="card-group" width="100%">
                 <div class="card p-3">
-                    <img src="./asset/img/3.jpg" class="card-img-top" alt="...">
+                    <img src="./asset/img/garbage/3.jpg" class="card-img-top" alt="...">
                 </div>
                 <div class="card p-3">
-                    <img src="./asset/img/3.jpg" class="card-img-top" alt="...">
+                    <img src="./asset/img/garbage/3.jpg" class="card-img-top" alt="...">
                 </div>
                 <div class="card p-3">
-                    <img src="./asset/img/3.jpg" class="card-img-top" alt="...">
+                    <img src="./asset/img/garbage/3.jpg" class="card-img-top" alt="...">
                 </div>
             </div>
         </div>
