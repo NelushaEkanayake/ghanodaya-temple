@@ -14,7 +14,7 @@
     <link href="asset/font/abhaya/font.css" rel="stylesheet">
 
     <style>
-     {
+    body {
         font-family: 'Abhaya Libre' !important;
     }
     </style>
@@ -37,7 +37,7 @@
 
 
 <body>
-<?php require_once('resources/header/index.php');
+    <?php require_once('resources/header/index.php');
 
 
     if( !isset($_GET['tag']) || $_GET['tag']=='home') {
