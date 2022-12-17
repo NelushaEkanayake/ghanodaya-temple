@@ -1,0 +1,1 @@
+# ghanodaya-temple
